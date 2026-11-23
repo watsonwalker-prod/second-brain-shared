@@ -1,0 +1,5846 @@
+{
+ "generated_at": "2026-10-28T23:57:45-05:00",
+ "owner": "",
+ "counts": {
+  "pages": 9,
+  "inbox_items": 14,
+  "unfiled_inbox_items": 0,
+  "check_reports": 11,
+  "files": 34,
+  "links": 65,
+  "sourced_claims": 149,
+  "external_sources": 8,
+  "conflicts": 1,
+  "conflict_headings": 8,
+  "conflict_mentions": 10,
+  "last_check_date": "2026-10-28"
+ },
+ "nodes": [
+  {
+   "id": "page: Bot Roster",
+   "type": "wiki",
+   "name": "Bot Roster",
+   "title": "Bot Roster",
+   "ext": "md",
+   "size": 8648,
+   "mtime": "2026-10-25T12:26:31-05:00",
+   "mtime_epoch": [phone removed].5917847,
+   "text": true,
+   "sections": [
+    {
+     "title": "Bot Roster",
+     "level": 1,
+     "claims": 0,
+     "lines": 2
+    },
+    {
+     "title": "Core And Routing",
+     "level": 2,
+     "claims": 5,
+     "lines": 5
+    },
+    {
+     "title": "Second Brain",
+     "level": 2,
+     "claims": 3,
+     "lines": 3
+    },
+    {
+     "title": "FRAIMOUS, Images And Identity",
+     "level": 2,
+     "claims": 5,
+     "lines": 5
+    },
+    {
+     "title": "Portfolio, Career And Attribution",
+     "level": 2,
+     "claims": 3,
+     "lines": 3
+    },
+    {
+     "title": "Growth, Marketing And Content",
+     "level": 2,
+     "claims": 6,
+     "lines": 6
+    },
+    {
+     "title": "Domains, Buying And Money",
+     "level": 2,
+     "claims": 6,
+     "lines": 6
+    },
+    {
+     "title": "Legal, Compliance And Trust",
+     "level": 2,
+     "claims": 4,
+     "lines": 4
+    },
+    {
+     "title": "Creative Worlds And Writing",
+     "level": 2,
+     "claims": 5,
+     "lines": 5
+    },
+    {
+     "title": "Daily Life",
+     "level": 2,
+     "claims": 1,
+     "lines": 1
+    },
+    {
+     "title": "Overlaps",
+     "level": 2,
+     "claims": 0,
+     "lines": 7
+    },
+    {
+     "title": "Usage",
+     "level": 2,
+     "claims": 1,
+     "lines": 1
+    },
+    {
+     "title": "Open Questions",
+     "level": 2,
+     "claims": 1,
+     "lines": 1
+    },
+    {
+     "title": "Related Pages",
+     "level": 2,
+     "claims": 0,
+     "lines": 2
+    },
+    {
+     "title": "Conflicts",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    }
+   ],
+   "claims": [
+    {
+     "section": "Core And Routing",
+     "text": "**Grok Bot:** \"The user's primary bot. Takes any task and routes it to the right one of their other bots...\"",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Core And Routing",
+     "text": "**Uncast:** \"Watch Stephany's other agents and their conversations. Find missing roles, and agents that exist but aren't doing the jo...\"",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Core And Routing",
+     "text": "**QAQUEEN:** \"QA for Stephany's agents. Read their conversations and work, catch misses, drift, and sloppy output, and make sure they'...\"",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Core And Routing",
+     "text": "**Build Dash:** \"you are a dashboard showing me where we are at easily on every project, you have an easy to get to link for the build ou...\"",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Core And Routing",
+     "text": "**Disk Saver:** \"Audits disk usage on Grok Bot's computer and proposes safe cleanup for approval.\"",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Second Brain",
+     "text": "**Brain Reader:** captures sources into [file]",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Second Brain",
+     "text": "**Brain Librarian:** \"The Librarian in Stephany's Second Brain (Karpathy pattern). You are the only one who writes the wiki...\"",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Second Brain",
+     "text": "**Brain Checker:** \"The Checker in Stephany's Second Brain (Karpathy pattern). You doubt everything...\"",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "FRAIMOUS, Images And Identity",
+     "text": "**Fraimous:** \"Runs FRAIMOUS, the image house: curate and iterate the best Grok stills, then frame them. No Printful/Shopify creates un...\"",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "FRAIMOUS, Images And Identity",
+     "text": "**image gen for fraimous:** \"rapid image gen to spec per project basis\"",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "FRAIMOUS, Images And Identity",
+     "text": "**SOGOLPRIME:** \"I am the son of Primusv1, the best logo/identy mark/icon maker in the universe besides like, 4 other people (Paul Rand, ...\"",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "FRAIMOUS, Images And Identity",
+     "text": "**create a one line icon, rectangluar in shape based off this image, it's:** no description (named after a prompt).",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "FRAIMOUS, Images And Identity",
+     "text": "**IPKING:** \"You are a ruthless hunter of good aesthetics, truth, and love, and you are going to get me, an innocent person, ready fo...\"",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Portfolio, Career And Attribution",
+     "text": "**Portfolio Pass:** no description.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Portfolio, Career And Attribution",
+     "text": "**YABFINDER:** \"You search for jobs on behance.com, you update my resume and my website as needed for each yab, w/in design and ethical ...\"",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Portfolio, Career And Attribution",
+     "text": "**AttAboy:** [description masked: private details]",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Growth, Marketing And Content",
+     "text": "**influencer:** \"grabs all the images of what i use regularly and creates UGC smart prompts and videos for those brands and writes up a U...\"",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Growth, Marketing And Content",
+     "text": "**ElViral copy:** \"Set up a new bot for me I can trigger for account growth, in its own dedicated chat. Walk me through connecting X, then ...\"",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Growth, Marketing And Content",
+     "text": "**SEOHOHOHHHHHH:** \"Set up a new bot for me in its own dedicated chat to run a local SEO team. Walk me through connecting Grok, then create ...\"",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Growth, Marketing And Content",
+     "text": "**Amazon Signal:** \"YOU ARE help. for a growing dynasty of brands and experiences spaces and places made in the highest vibration, I.e: RARE...\"",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Growth, Marketing And Content",
+     "text": "**FAISHON:** [description masked: private details]",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Growth, Marketing And Content",
+     "text": "**🪩 Graph, with a Y:** no description.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Domains, Buying And Money",
+     "text": "**domain finder and buyer:** \"you find domains for my projects current and upcoming and you buy the cheapest ones or wait on them. we have a budget.\"",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Domains, Buying And Money",
+     "text": "**Tings:** \"You buy me the tings\"",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Domains, Buying And Money",
+     "text": "**MoneyBAGZ:** [description masked: private details]",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Domains, Buying And Money",
+     "text": "**auctbot:** \"You're looking at real estate auctions, storage auctions, auctions I don't even know about -- hunting for hidden treasur...\"",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Domains, Buying And Money",
+     "text": "**based on what you know conduct a true cost of living for stephany bradfo:** no description (named after a prompt).",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Domains, Buying And Money",
+     "text": "**okay, but do a test run for my previous order (show me what it looks lik:** no description (named after a prompt).",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Legal, Compliance And Trust",
+     "text": "**Compliance King:** [description masked: private details]",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Legal, Compliance And Trust",
+     "text": "**HRyousrl?:** \"all business, everything is business, just do it\"",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Legal, Compliance And Trust",
+     "text": "**not so legal:** [description masked: private details]",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Legal, Compliance And Trust",
+     "text": "**DMONFIND:** [description masked: private details]",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Creative Worlds And Writing",
+     "text": "**museum maker:** \"Makes museums. First house: The Great Game - a metaphorical museum of the machines and worlds that trained us how to wan...\"",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Creative Worlds And Writing",
+     "text": "**ChicLitBabe:** \"writing and publishing books, creating pull quotes from the book, creating chapters, editing chapters, creating imagery,...\"",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Creative Worlds And Writing",
+     "text": "**FOR THE KIDZ:** [description masked: private details]",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Creative Worlds And Writing",
+     "text": "**interior bot:** \"finding the most unique furniture and creating specs to actually build (look at choas ai -- city planning etc)\"",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Creative Worlds And Writing",
+     "text": "**InDaCloset:** \"You grab all of my outfits from my photos, you cut them out and create new outfits from them as well as assemble what I ...\"",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Daily Life",
+     "text": "**TiMey:** keeps Stephany on schedule day to day. (Description paraphrased and masked: it contains a personal [private] detail.)",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Usage",
+     "text": "No usage data yet. Brain Reader won't read other bots' private chats, so usage will come from each bot reporting its own, possibly through Uncast or Build Dash.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Open Questions",
+     "text": "None open. The 38 vs 42 count is closed: the 42 entries are 38 bots, the group chat and 3 housekeeping files.",
+     "source": "brain check",
+     "sources": [
+      "brain check"
+     ],
+     "date": "2026-10-19"
+    }
+   ],
+   "claim_count": 40,
+   "conflict_headings": 1,
+   "conflict_items": 0,
+   "last_confirmed": "2026-10-22",
+   "words": 1172,
+   "lines": 100,
+   "in_degree": 3,
+   "out_degree": 5
+  },
+  {
+   "id": "page: Designy",
+   "type": "wiki",
+   "name": "Designy",
+   "title": "Designy",
+   "ext": "md",
+   "size": 840,
+   "mtime": "2026-10-25T12:26:31-05:00",
+   "mtime_epoch": [phone removed].6037846,
+   "text": true,
+   "sections": [
+    {
+     "title": "Designy",
+     "level": 1,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "What It Is",
+     "level": 2,
+     "claims": 1,
+     "lines": 1
+    },
+    {
+     "title": "Projects",
+     "level": 2,
+     "claims": 2,
+     "lines": 2
+    },
+    {
+     "title": "Related Pages",
+     "level": 2,
+     "claims": 0,
+     "lines": 2
+    },
+    {
+     "title": "Conflicts",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    }
+   ],
+   "claims": [
+    {
+     "section": "What It Is",
+     "text": "Designy is Stephany's studio, and its project work is published at designyprojects.com.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Projects",
+     "text": "[NEXUS]([file]): an archived case study and one project within Designy, not a main focus. Quote: [private quote].",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Projects",
+     "text": "[FRAIMOUS Profitability Plan]([file]): a proposal from 2026-10-19, not yet approved.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    }
+   ],
+   "claim_count": 3,
+   "conflict_headings": 1,
+   "conflict_items": 0,
+   "last_confirmed": "2026-10-19",
+   "words": 86,
+   "lines": 23,
+   "in_degree": 5,
+   "out_degree": 7
+  },
+  {
+   "id": "page: From Land To Legacy Dinner",
+   "type": "wiki",
+   "name": "From Land To Legacy Dinner",
+   "title": "From Land To Legacy Dinner",
+   "ext": "md",
+   "size": 1615,
+   "mtime": "2026-10-25T23:04:05-05:00",
+   "mtime_epoch": [phone removed].2750804,
+   "text": true,
+   "sections": [
+    {
+     "title": "From Land To Legacy Dinner",
+     "level": 1,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "What It Is",
+     "level": 2,
+     "claims": 2,
+     "lines": 2
+    },
+    {
+     "title": "When And Where",
+     "level": 2,
+     "claims": 2,
+     "lines": 2
+    },
+    {
+     "title": "What It Covers",
+     "level": 2,
+     "claims": 1,
+     "lines": 1
+    },
+    {
+     "title": "Who Can Attend",
+     "level": 2,
+     "claims": 4,
+     "lines": 4
+    },
+    {
+     "title": "Related Pages",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Conflicts",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    }
+   ],
+   "claims": [
+    {
+     "section": "What It Is",
+     "text": "\"From Land to Legacy: The FISYN Way to Financial Freedom\" is an in-person investor dinner hosted by [FISYN]([file]) Fund II LLC.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-25"
+    },
+    {
+     "section": "What It Is",
+     "text": "Stephany dropped it in the Second Brain group on 2026-10-25 and asked for it to go on her calendar.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-25"
+    },
+    {
+     "section": "When And Where",
+     "text": "Thursday, October 29, 2026, 6 PM to 8 PM CT, about two hours, in person.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-25"
+    },
+    {
+     "section": "When And Where",
+     "text": "Tower Club Dallas, [private], [private], Dallas, TX [private].",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-25"
+    },
+    {
+     "section": "What It Covers",
+     "text": "Quote: [private quote]",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-25"
+    },
+    {
+     "section": "Who Can Attend",
+     "text": "Quote: [private quote].",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-25"
+    },
+    {
+     "section": "Who Can Attend",
+     "text": "The page defines an accredited investor as net worth over [amount] excluding primary residence, or annual income of at least [amount] individually or [amount] jointly with a spouse.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-25"
+    },
+    {
+     "section": "Who Can Attend",
+     "text": "The page also mentions SEC invitation guidelines and interest of about [amount] or more to allocate in the near term.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-25"
+    },
+    {
+     "section": "Who Can Attend",
+     "text": "Attendance is limited, reservation requests are subject to FISYN review, and confirmation comes after executive team approval.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-25"
+    }
+   ],
+   "claim_count": 9,
+   "conflict_headings": 1,
+   "conflict_items": 0,
+   "last_confirmed": "2026-10-25",
+   "words": 233,
+   "lines": 33,
+   "in_degree": 2,
+   "out_degree": 2
+  },
+  {
+   "id": "page: FISYN",
+   "type": "wiki",
+   "name": "FISYN",
+   "title": "FISYN",
+   "ext": "md",
+   "size": 797,
+   "mtime": "2026-10-25T15:04:25-05:00",
+   "mtime_epoch": [phone removed].0815606,
+   "text": true,
+   "sections": [
+    {
+     "title": "FISYN",
+     "level": 1,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "What It Is",
+     "level": 2,
+     "claims": 3,
+     "lines": 3
+    },
+    {
+     "title": "Related Pages",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Conflicts",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    }
+   ],
+   "claims": [
+    {
+     "section": "What It Is",
+     "text": "FISYN Fund II LLC (also listed as FISYN Fund II) is the organizer of the [From Land To Legacy Dinner]([file]).",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-25"
+    },
+    {
+     "section": "What It Is",
+     "text": "The event page says FISYN was founded by Ron McVaney and focuses on Texas commercial land, bought with cash, not [private].",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-25"
+    },
+    {
+     "section": "What It Is",
+     "text": "The strategy named on the page is Buy, Enhance, Sell: acquire, develop, and sell Texas commercial land for monthly income and long-term growth.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-25"
+    }
+   ],
+   "claim_count": 3,
+   "conflict_headings": 1,
+   "conflict_items": 0,
+   "last_confirmed": "2026-10-25",
+   "words": 100,
+   "lines": 18,
+   "in_degree": 2,
+   "out_degree": 2
+  },
+  {
+   "id": "page: FRAIMOUS Profitability Plan",
+   "type": "wiki",
+   "name": "FRAIMOUS Profitability Plan",
+   "title": "FRAIMOUS Profitability Plan",
+   "ext": "md",
+   "size": 4912,
+   "mtime": "2026-10-25T12:26:32-05:00",
+   "mtime_epoch": [phone removed].3717847,
+   "text": true,
+   "sections": [
+    {
+     "title": "FRAIMOUS Profitability Plan",
+     "level": 1,
+     "claims": 0,
+     "lines": 3
+    },
+    {
+     "title": "The Short Version",
+     "level": 2,
+     "claims": 5,
+     "lines": 5
+    },
+    {
+     "title": "Unit Economics",
+     "level": 2,
+     "claims": 3,
+     "lines": 3
+    },
+    {
+     "title": "30/60/90 Day Plan",
+     "level": 2,
+     "claims": 3,
+     "lines": 3
+    },
+    {
+     "title": "Secondary Income",
+     "level": 2,
+     "claims": 4,
+     "lines": 4
+    },
+    {
+     "title": "Decisions Waiting On Stephany",
+     "level": 2,
+     "claims": 6,
+     "lines": 6
+    },
+    {
+     "title": "Open Questions",
+     "level": 2,
+     "claims": 1,
+     "lines": 1
+    },
+    {
+     "title": "Related Pages",
+     "level": 2,
+     "claims": 0,
+     "lines": 2
+    },
+    {
+     "title": "Settled Notes",
+     "level": 2,
+     "claims": 1,
+     "lines": 1
+    },
+    {
+     "title": "Conflicts",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    }
+   ],
+   "claims": [
+    {
+     "section": "The Short Version",
+     "text": "FRAIMOUS has strong margins and no paid orders yet on the connected [private].",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "The Short Version",
+     "text": "A full-price 16x20 framed print leaves about [amount] after Printful, shipping and Stripe, about a 73% margin.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "The Short Version",
+     "text": "Known monthly tools come to about [amount], so one full-price order a month covers them.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "The Short Version",
+     "text": "The real job is demand: 95 visitors in the 30 days to Oct 12, almost all direct.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "The Short Version",
+     "text": "The fastest cash is outside the shop: a paid expert call request and a design job lead.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Unit Economics",
+     "text": "Every framed size keeps more than 60% of what the customer pays.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Unit Economics",
+     "text": "Site shipping runs [amount] to [amount] short of Printful's charge per framed order.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Unit Economics",
+     "text": "Extra-large canvas is the weak spot: Printful charges [amount] to ship it in the US, while the cart charges [amount].",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "30/60/90 Day Plan",
+     "text": "Days 1 to 30 (Oct 19 to Nov 18): ship the staged site fixes, post on Instagram daily with tracked links, turn on free Google listings and Pinterest, fix shipping, and hold paid ads until there is a week of organic data.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "30/60/90 Day Plan",
+     "text": "Days 31 to 60 (Nov 19 to Dec 18): release a new work or reveal every two weeks, grow the email list, and pitch one art program.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "30/60/90 Day Plan",
+     "text": "Days 61 to 90 (Dec 19 to Jan 17): scale ads only if cost per order is clearly below what each order earns, and rerun break-even with real orders.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Secondary Income",
+     "text": "Paid expert calls on DTC ecommerce growth, from an expert network request on Oct 16.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Secondary Income",
+     "text": "A Staff Product Designer job lead found through a job board.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Secondary Income",
+     "text": "A hotel creator partnership pitch, traded for a stay, with a door to Designy art programs.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Secondary Income",
+     "text": "Ongoing design work on a client's Printful store, with rate and terms not yet captured.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Decisions Waiting On Stephany",
+     "text": "Run the [amount] Meta ad test now or wait a week for organic data. The plan suggests waiting.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Decisions Waiting On Stephany",
+     "text": "Match shipping to Printful, and raise or pause extra-large canvas.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Decisions Waiting On Stephany",
+     "text": "Scala \"15 sold\" counter: settled, see Settled Notes.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Decisions Waiting On Stephany",
+     "text": "Move Vercel to Pro now that the shop takes payments.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Decisions Waiting On Stephany",
+     "text": "Fix, downgrade or cancel Adobe before its 30-day credit runs out around Nov 18.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Decisions Waiting On Stephany",
+     "text": "Set an hourly rate for expert calls, and set up sales tax with a tax professional.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Open Questions",
+     "text": "The plan lists nine data gaps, including sales on the Nexus [private], sales tax, and several tool plans. See the plan's Data Gaps section.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Settled Notes",
+     "text": "Scala sold count: the shop shows 15 of 25 sold, while the connected [private] shows no paid charges.  Stephany settled it: [private quote] It is a display number, not real sales, and the counter stays as is.  The plan's revenue figures use the connected [private]'s zero paid orders, and sales on the Nexus [private] since Oct 5 are still a data gap.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    }
+   ],
+   "claim_count": 23,
+   "conflict_headings": 1,
+   "conflict_items": 1,
+   "last_confirmed": "2026-10-20",
+   "words": 637,
+   "lines": 60,
+   "in_degree": 2,
+   "out_degree": 4
+  },
+  {
+   "id": "page: How This Brain Works",
+   "type": "wiki",
+   "name": "How This Brain Works",
+   "title": "How This Brain Works",
+   "ext": "md",
+   "size": 6459,
+   "mtime": "2026-10-27T17:23:00-05:00",
+   "mtime_epoch": [phone removed].1590436,
+   "text": true,
+   "sections": [
+    {
+     "title": "How This Brain Works",
+     "level": 1,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "The Pattern",
+     "level": 2,
+     "claims": 5,
+     "lines": 5
+    },
+    {
+     "title": "Our Setup",
+     "level": 2,
+     "claims": 7,
+     "lines": 7
+    },
+    {
+     "title": "Masking Rule",
+     "level": 2,
+     "claims": 3,
+     "lines": 3
+    },
+    {
+     "title": "Ideas From The Post Not Yet Adopted",
+     "level": 2,
+     "claims": 5,
+     "lines": 6
+    },
+    {
+     "title": "The Visualization In The Post",
+     "level": 2,
+     "claims": 12,
+     "lines": 12
+    },
+    {
+     "title": "Conflicts",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    }
+   ],
+   "claims": [
+    {
+     "section": "The Pattern",
+     "text": "The brain follows Andrej Karpathy's second brain pattern, run on Grok Bot as three bots in one group chat, each with its own memory.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "The Pattern",
+     "text": "The goal is to stop re-explaining your life to AI in every chat by keeping a wiki that writes itself. Quote: [private quote].",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "The Pattern",
+     "text": "The roles in short: \"Reader collects. Librarian writes. Checker doubts.\"",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "The Pattern",
+     "text": "The brain lives in files, not chat memory, because a file stays exactly as written and every bot can read it.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "The Pattern",
+     "text": "Slow facts (who people are, how you work) belong in files, while fast facts (status, dates, amounts) should be rechecked at their source.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Our Setup",
+     "text": "Brain Reader captures every link, PDF, screenshot, voice note and idea into [file], one file per item with source and date, and never edits [file]",
+     "source": "brain README",
+     "sources": [
+      "brain README"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Our Setup",
+     "text": "Brain Librarian is the only bot that writes [file], keeps one topic per page, cites a source and date for every claim, and keeps [file] current.",
+     "source": "brain README",
+     "sources": [
+      "brain README"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Our Setup",
+     "text": "Brain Checker writes nightly reports to [file] covering contradictions, stale claims and unsourced claims, and sends conflicts to Stephany instead of resolving them.",
+     "source": "brain README",
+     "sources": [
+      "brain README"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Our Setup",
+     "text": "Brain Checker's nightly review runs around 11 PM CT and stays quiet on nights with nothing to report.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Our Setup",
+     "text": "Brain Librarian checks [file] every 3 hours from 9 AM to 9 PM CT.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Our Setup",
+     "text": "Our [file] plays the role the post calls raw/.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Our Setup",
+     "text": "House style is Title Case headings and no em-dashes.",
+     "source": "brain README",
+     "sources": [
+      "brain README"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Masking Rule",
+     "text": "Sensitive data is masked by default in anything shareable: addresses, finances, legal details, private quotes and file paths.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Masking Rule",
+     "text": "Bot names and project names are public and are not masked.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Masking Rule",
+     "text": "Masking applies only to shared copies. The private wiki and private dashboard keep full detail.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Ideas From The Post Not Yet Adopted",
+     "text": "A page that goes 30 days without a fresh source gets marked unconfirmed.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Ideas From The Post Not Yet Adopted",
+     "text": "Good answers to Stephany's questions get filed back as wiki pages, so the brain grows from use.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Ideas From The Post Not Yet Adopted",
+     "text": "When you correct a bot, the fix goes into a rules file as one line so the mistake does not repeat.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Ideas From The Post Not Yet Adopted",
+     "text": "Start with one topic you actually work on, not your whole life.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Ideas From The Post Not Yet Adopted",
+     "text": "Keep routines to a few runs a day, since an hourly one can use up a week of plan usage in a day.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "The Visualization In The Post",
+     "text": "The post's 24 second video shows a dark, monospace \"Knowledge Engine\" dashboard with wiki pages as crimson spheres in a slowly rotating 3D graph.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "The Visualization In The Post",
+     "text": "When a bot touches a page, reticles lock onto that node with a card showing the file, the claim, the source and the date.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "The Visualization In The Post",
+     "text": "A command bar shows the current bot command with colored badges for Reader, Librarian and Checker, above eight footer panels: Shared Chat, Write Queue, Page Exposition, Graph Index, Raw, Document Diff, Citation Matrix and Hourly Checker.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "The Visualization In The Post",
+     "text": "The video ends with the Checker flagging a conflict on a page, which pulses red.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "The Visualization In The Post",
+     "text": "The files and numbers in the video look like demo data, not a real brain. The breakdown came from an AI video model, not a person watching it frame by frame.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "The Visualization In The Post",
+     "text": "Grok Bot built Stephany's version of the dashboard. It lives at [file] and its [file] is rebuilt from this wiki.",
+     "source": "local file",
+     "sources": [
+      "local file"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "The Visualization In The Post",
+     "text": "At Stephany's request, the dashboard was made responsive at 390, 768, 1024 and 1440 px wide. On phones the panels stack and page details open in a bottom sheet.",
+     "source": "group chat",
+     "sources": [
+      "group chat"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "The Visualization In The Post",
+     "text": "Stephany asked for it in her Nexus Flare style, which Grok Bot took from the [NEXUS]([file]) case study and brand guide.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "The Visualization In The Post",
+     "text": "There is also a masked shared dashboard copy at [file], rebuilt from the wiki for public links.",
+     "source": "local file",
+     "sources": [
+      "local file"
+     ],
+     "date": "2026-10-25"
+    },
+    {
+     "section": "The Visualization In The Post",
+     "text": "On 2026-10-25 Stephany asked to publish the shareable brain dashboard as a public link.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-25"
+    },
+    {
+     "section": "The Visualization In The Post",
+     "text": "Publishing and hosting that shared copy are Grok Bot's work. Brain Checker scans the masked copy before a link goes live.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-25"
+    },
+    {
+     "section": "The Visualization In The Post",
+     "text": "On 2026-10-27 Grok Bot reported the shareable Second Brain is live at [Shareable Second Brain](second-brain-shared-designy-s-projects.vercel.app), with masking cleared by Brain Checker.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-27"
+    }
+   ],
+   "claim_count": 32,
+   "conflict_headings": 1,
+   "conflict_items": 0,
+   "last_confirmed": "2026-10-27",
+   "words": 860,
+   "lines": 57,
+   "in_degree": 3,
+   "out_degree": 9
+  },
+  {
+   "id": "page: Index",
+   "type": "wiki",
+   "name": "Index",
+   "title": "Index",
+   "ext": "md",
+   "size": 1070,
+   "mtime": "2026-10-27T17:23:00-05:00",
+   "mtime_epoch": [phone removed].1590436,
+   "text": true,
+   "sections": [
+    {
+     "title": "Index",
+     "level": 1,
+     "claims": 0,
+     "lines": 0
+    },
+    {
+     "title": "Studio And Projects",
+     "level": 2,
+     "claims": 0,
+     "lines": 2
+    },
+    {
+     "title": "Proposals",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Events",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Organizations",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Places",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Bots And Systems",
+     "level": 2,
+     "claims": 0,
+     "lines": 2
+    }
+   ],
+   "claims": [],
+   "claim_count": 0,
+   "conflict_headings": 0,
+   "conflict_items": 0,
+   "last_confirmed": null,
+   "words": 143,
+   "lines": 28,
+   "in_degree": 1,
+   "out_degree": 8
+  },
+  {
+   "id": "page: Nebula NYC",
+   "type": "wiki",
+   "name": "Nebula NYC",
+   "title": "Nebula NYC",
+   "ext": "md",
+   "size": 1632,
+   "mtime": "2026-10-25T12:26:13-05:00",
+   "mtime_epoch": [phone removed].6277847,
+   "text": true,
+   "sections": [
+    {
+     "title": "Nebula NYC",
+     "level": 1,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "What It Is",
+     "level": 2,
+     "claims": 4,
+     "lines": 4
+    },
+    {
+     "title": "Related Pages",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Conflicts",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Settled Notes",
+     "level": 2,
+     "claims": 1,
+     "lines": 1
+    }
+   ],
+   "claims": [
+    {
+     "section": "What It Is",
+     "text": "Nebula NYC was the planned venue for [NEXUS]([file]), Presage NYC's NYFW September 2026 event, now an archived case study.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "What It Is",
+     "text": "It is about 11,000 sq ft in Times Square, with built-in screens.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "What It Is",
+     "text": "The NEXUS event there was planned as invite only, with 400 invited on the floor plan and 300 decision-makers in the guide copy.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "What It Is",
+     "text": "In the NEXUS story, chapter 01 Emergence casts Nebula as the birthplace.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Settled Notes",
+     "text": "Guest count: 400 invited, per the brand guide's floor plan (N=400), and 300 decision-makers, per sample body copy in the same guide (\"Three hundred decision-makers\").  Stephany decided to keep both and label them: 400 invited, 300 decision-makers. Quote: [private quote]  Earlier she noted NEXUS is an archived case study.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    }
+   ],
+   "claim_count": 5,
+   "conflict_headings": 1,
+   "conflict_items": 0,
+   "last_confirmed": "2026-10-22",
+   "words": 216,
+   "lines": 23,
+   "in_degree": 3,
+   "out_degree": 3
+  },
+  {
+   "id": "page: NEXUS",
+   "type": "wiki",
+   "name": "NEXUS",
+   "title": "NEXUS",
+   "ext": "md",
+   "size": 7662,
+   "mtime": "2026-10-27T23:07:50-05:00",
+   "mtime_epoch": [phone removed].9901211,
+   "text": true,
+   "sections": [
+    {
+     "title": "NEXUS",
+     "level": 1,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Status",
+     "level": 2,
+     "claims": 3,
+     "lines": 3
+    },
+    {
+     "title": "What It Is",
+     "level": 2,
+     "claims": 4,
+     "lines": 4
+    },
+    {
+     "title": "Designy's Work",
+     "level": 2,
+     "claims": 6,
+     "lines": 6
+    },
+    {
+     "title": "Nexus Flare Styling",
+     "level": 2,
+     "claims": 3,
+     "lines": 3
+    },
+    {
+     "title": "Brand Guide",
+     "level": 2,
+     "claims": 0,
+     "lines": 0
+    },
+    {
+     "title": "Story And Chapters",
+     "level": 3,
+     "claims": 4,
+     "lines": 4
+    },
+    {
+     "title": "Palette",
+     "level": 3,
+     "claims": 2,
+     "lines": 2
+    },
+    {
+     "title": "Type",
+     "level": 3,
+     "claims": 2,
+     "lines": 2
+    },
+    {
+     "title": "Logo",
+     "level": 3,
+     "claims": 2,
+     "lines": 2
+    },
+    {
+     "title": "Motifs And Components",
+     "level": 3,
+     "claims": 2,
+     "lines": 2
+    },
+    {
+     "title": "Always And Never",
+     "level": 3,
+     "claims": 4,
+     "lines": 4
+    },
+    {
+     "title": "Open Questions",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Related Pages",
+     "level": 2,
+     "claims": 0,
+     "lines": 3
+    },
+    {
+     "title": "Conflicts",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Settled Notes",
+     "level": 2,
+     "claims": 2,
+     "lines": 2
+    }
+   ],
+   "claims": [
+    {
+     "section": "Status",
+     "text": "NEXUS is one project within [Designy]([file]), not a main focus.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Status",
+     "text": "NEXUS is an archived project, kept as a portfolio case study. Small mismatches inside its archived materials don't need a decision.",
+     "source": "private chat",
+     "sources": [
+      "private chat"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Status",
+     "text": "The event was set for NYFW September 2026, and that date has passed. No captured source says how the event went or how many guests came.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "What It Is",
+     "text": "NEXUS was Presage NYC's threshold concept for NYFW September 2026, a live event at Nebula NYC. Quote: [private quote]",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "What It Is",
+     "text": "The client is Presage NYC.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "What It Is",
+     "text": "It shipped as a living brand system at designyprojects.com/nexus rather than as a PDF.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "What It Is",
+     "text": "The venue is [Nebula NYC]([file]), and the brand guide carries the stamp 09.14.2026, 20:47 EDT.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Designy's Work",
+     "text": "Designy built the brand system, the sponsorship and partnership decks, a presale mock, a designer portal, and an agent-led build pipeline.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Designy's Work",
+     "text": "Stephany defined the star-and-threshold narrative, the palette, the typography, the logo lockups and the application rules.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Designy's Work",
+     "text": "She built an interactive brand guide with live mood boards, a token drawer and chapter navigation.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Designy's Work",
+     "text": "The proof points are a 10-chapter brand guide, partnership decks, mood boards and a multi-domain Vercel deploy.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Designy's Work",
+     "text": "The build was agent-led on Grok from one repo, described as \"3 months of work in 3 days\".",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Designy's Work",
+     "text": "Quote: [private quote].",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Nexus Flare Styling",
+     "text": "Stephany calls this look her Nexus Flare aesthetic. Quote: [private quote]. No captured source defines the term beyond this case study and the brand guide.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Nexus Flare Styling",
+     "text": "The Second Brain dashboard at [file] was styled from this case study and the Nexus brand guide it links to.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Nexus Flare Styling",
+     "text": "The case study itself does not list colors or fonts; they live in the brand guide, now captured below.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Story And Chapters",
+     "text": "The tagline is \"The threshold is open.\" The guide frames the idea as body as data and mirror as method.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Story And Chapters",
+     "text": "The core idea is a cold machine field with one warm infrared pulse. Quote: [private quote]",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Story And Chapters",
+     "text": "Quote: [private quote]",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Story And Chapters",
+     "text": "There are four chapters: 01 Emergence (Nebula as birthplace), 02 Mirror (avatar, double, stained glass), 03 Weave (thread as circuit) and 04 Echo (chrome ritual, couture severity).",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Palette",
+     "text": "Void #000000, Ground #141413, Mist #8A7F78, Chrome (a surface, no hex given), Slate #4C596B, Ice #A8D8FF, Bog #1E4A38, Infrared #FF4C00 and Smoke #C4BBB3.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Palette",
+     "text": "Bog is phosphor green, Slate and Ice are for environmental room blue only, Infrared is the one human pulse, and Chrome and Mist carry the grey field. There is no purple default.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Type",
+     "text": "Syne 800 for display, Instrument Sans 400 to 600 for body, and IBM Plex Mono 400 for code and stamps, locked everywhere.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Type",
+     "text": "Headlines are six words max.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Logo",
+     "text": "Ship only the approved PNG lockups (signal, vanilla and ink), and never rebuild the logo in CSS, Syne or plain text.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Logo",
+     "text": "Minimum logo height is 32px digital and 12mm print.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Motifs And Components",
+     "text": "Motifs are grid (overlay at 8 to 12% opacity), mirror, infrared (thermal readout, REC stamp, crosshair corners), specimen IDs in monospace, PCB traces and robots. Use one motif per layout, never as wallpaper.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Motifs And Components",
+     "text": "Components include an IR-framed wireframe hero, a Bayer dither layer with infrared orange pixels, motif cards, and texture overlays with infrared gradients and film grain.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Always And Never",
+     "text": "Always: photography carries the page, about 50% empty space, one infrared element per layout, and a metadata stamp in one corner.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Always And Never",
+     "text": "Never: purple-on-black as the default, gold, lavender or AI-slop gradients, Old English calligraphy, sparkles, lens flare, stock sci-fi or particle wallpaper, or three chrome treatments stacked on one slide.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Always And Never",
+     "text": "Quote on purple: \"Purple-on-black as default ... reads rave, not runway\".",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Always And Never",
+     "text": "Another listed never: \"Letting the AI name the fragrance again\".",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    },
+    {
+     "section": "Settled Notes",
+     "text": "Shared-copy names: on Oct 19 Stephany had not yet ruled whether Presage NYC and Nebula NYC may show in shared copies, only that NEXUS isn't a focus.  On Oct 27 she ruled to show them. Quote: [private quote]  Both claims kept; the later ruling stands for shared copies.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-19"
+    },
+    {
+     "section": "Settled Notes",
+     "text": "Guest count: 400 invited, per the brand guide's floor plan (N=400), and 300 decision-makers, per sample body copy in the same guide (\"Three hundred decision-makers\").  Stephany decided to keep both and label them: 400 invited, 300 decision-makers. Quote: [private quote]  Earlier she noted NEXUS is an archived case study.",
+     "source": "inbox capture",
+     "sources": [
+      "inbox capture"
+     ],
+     "date": "2026-10-18"
+    }
+   ],
+   "claim_count": 34,
+   "conflict_headings": 1,
+   "conflict_items": 0,
+   "last_confirmed": "2026-10-27",
+   "words": 1003,
+   "lines": 87,
+   "in_degree": 5,
+   "out_degree": 8
+  },
+  {
+   "id": "inbox capture: Argona: Karpathy's Second Brain Pattern On Grok Bot",
+   "type": "inbox",
+   "name": "Argona: Karpathy's Second Brain Pattern On Grok Bot",
+   "title": "Argona: Karpathy's Second Brain Pattern On Grok Bot",
+   "ext": "md",
+   "size": 5439,
+   "mtime": "2026-10-25T12:26:11-05:00",
+   "mtime_epoch": [phone removed].5677845,
+   "text": true,
+   "sections": [
+    {
+     "title": "Argona: Karpathy's Second Brain Pattern On Grok Bot",
+     "level": 1,
+     "claims": 0,
+     "lines": 5
+    },
+    {
+     "title": "Summary",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Key Claims",
+     "level": 2,
+     "claims": 0,
+     "lines": 9
+    },
+    {
+     "title": "Key Claims From The Quoted Article",
+     "level": 2,
+     "claims": 0,
+     "lines": 6
+    },
+    {
+     "title": "Direct Quotes",
+     "level": 2,
+     "claims": 0,
+     "lines": 5
+    },
+    {
+     "title": "Notes For Librarian",
+     "level": 2,
+     "claims": 0,
+     "lines": 2
+    },
+    {
+     "title": "Video Breakdown (Added 2026-10-18)",
+     "level": 2,
+     "claims": 0,
+     "lines": 2
+    },
+    {
+     "title": "Look",
+     "level": 3,
+     "claims": 0,
+     "lines": 7
+    },
+    {
+     "title": "Sequence",
+     "level": 3,
+     "claims": 0,
+     "lines": 5
+    }
+   ],
+   "claims": [],
+   "claim_count": 0,
+   "conflict_headings": 0,
+   "conflict_items": 0,
+   "last_confirmed": null,
+   "words": 927,
+   "lines": 73,
+   "in_degree": 1,
+   "out_degree": 1,
+   "filed": true
+  },
+  {
+   "id": "inbox capture: 2026 10 18 Argona Second Brain Video",
+   "type": "inbox",
+   "name": "2026 10 18 Argona Second Brain Video",
+   "title": "2026 10 18 Argona Second Brain Video",
+   "ext": "mp4",
+   "size": 21167731,
+   "mtime": "2026-10-25T12:26:13-05:00",
+   "mtime_epoch": [phone removed].7597847,
+   "text": false,
+   "in_degree": 2,
+   "out_degree": 0,
+   "filed": true
+  },
+  {
+   "id": "inbox capture: NEXUS Brand Guide",
+   "type": "inbox",
+   "name": "NEXUS Brand Guide",
+   "title": "NEXUS Brand Guide",
+   "ext": "md",
+   "size": 2749,
+   "mtime": "2026-10-25T12:26:12-05:00",
+   "mtime_epoch": [phone removed].5317845,
+   "text": true,
+   "sections": [
+    {
+     "title": "NEXUS Brand Guide",
+     "level": 1,
+     "claims": 0,
+     "lines": 3
+    },
+    {
+     "title": "Summary",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Key Claims",
+     "level": 2,
+     "claims": 0,
+     "lines": 11
+    },
+    {
+     "title": "Direct Quotes",
+     "level": 2,
+     "claims": 0,
+     "lines": 5
+    },
+    {
+     "title": "Notes For Librarian",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    }
+   ],
+   "claims": [],
+   "claim_count": 0,
+   "conflict_headings": 0,
+   "conflict_items": 0,
+   "last_confirmed": null,
+   "words": 416,
+   "lines": 40,
+   "in_degree": 4,
+   "out_degree": 1,
+   "filed": true
+  },
+  {
+   "id": "inbox capture: NEXUS Case Study (Stephany's Portfolio)",
+   "type": "inbox",
+   "name": "NEXUS Case Study (Stephany's Portfolio)",
+   "title": "NEXUS Case Study (Stephany's Portfolio)",
+   "ext": "md",
+   "size": 1608,
+   "mtime": "2026-10-25T12:26:12-05:00",
+   "mtime_epoch": [phone removed].5957847,
+   "text": true,
+   "sections": [
+    {
+     "title": "NEXUS Case Study (Stephany's Portfolio)",
+     "level": 1,
+     "claims": 0,
+     "lines": 3
+    },
+    {
+     "title": "Summary",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Key Claims",
+     "level": 2,
+     "claims": 0,
+     "lines": 7
+    },
+    {
+     "title": "Direct Quotes",
+     "level": 2,
+     "claims": 0,
+     "lines": 4
+    }
+   ],
+   "claims": [],
+   "claim_count": 0,
+   "conflict_headings": 0,
+   "conflict_items": 0,
+   "last_confirmed": null,
+   "words": 255,
+   "lines": 30,
+   "in_degree": 4,
+   "out_degree": 0,
+   "filed": true
+  },
+  {
+   "id": "inbox capture: Second Brain Setup Decisions (Group Chat)",
+   "type": "inbox",
+   "name": "Second Brain Setup Decisions (Group Chat)",
+   "title": "Second Brain Setup Decisions (Group Chat)",
+   "ext": "md",
+   "size": 1596,
+   "mtime": "2026-10-25T12:26:12-05:00",
+   "mtime_epoch": [phone removed].6197846,
+   "text": true,
+   "sections": [
+    {
+     "title": "Second Brain Setup Decisions (Group Chat)",
+     "level": 1,
+     "claims": 0,
+     "lines": 3
+    },
+    {
+     "title": "Summary",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Key Claims",
+     "level": 2,
+     "claims": 0,
+     "lines": 7
+    },
+    {
+     "title": "Direct Quotes",
+     "level": 2,
+     "claims": 0,
+     "lines": 2
+    }
+   ],
+   "claims": [],
+   "claim_count": 0,
+   "conflict_headings": 0,
+   "conflict_items": 0,
+   "last_confirmed": null,
+   "words": 273,
+   "lines": 26,
+   "in_degree": 3,
+   "out_degree": 0,
+   "filed": true
+  },
+  {
+   "id": "inbox capture: FRAIMOUS Profitability Plan",
+   "type": "inbox",
+   "name": "FRAIMOUS Profitability Plan",
+   "title": "FRAIMOUS Profitability Plan",
+   "ext": "md",
+   "size": 2830,
+   "mtime": "2026-10-25T12:26:31-05:00",
+   "mtime_epoch": [phone removed].6837847,
+   "text": true,
+   "sections": [
+    {
+     "title": "FRAIMOUS Profitability Plan",
+     "level": 1,
+     "claims": 0,
+     "lines": 4
+    },
+    {
+     "title": "Summary",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Key Claims (As Stated In The Plan)",
+     "level": 2,
+     "claims": 0,
+     "lines": 11
+    },
+    {
+     "title": "Quotes",
+     "level": 2,
+     "claims": 0,
+     "lines": 3
+    },
+    {
+     "title": "Open Items Listed In The Plan",
+     "level": 2,
+     "claims": 0,
+     "lines": 2
+    }
+   ],
+   "claims": [],
+   "claim_count": 0,
+   "conflict_headings": 0,
+   "conflict_items": 0,
+   "last_confirmed": null,
+   "words": 471,
+   "lines": 38,
+   "in_degree": 3,
+   "out_degree": 0,
+   "filed": true
+  },
+  {
+   "id": "inbox capture: Stephany's Grok Bot Roster",
+   "type": "inbox",
+   "name": "Stephany's Grok Bot Roster",
+   "title": "Stephany's Grok Bot Roster",
+   "ext": "md",
+   "size": 6274,
+   "mtime": "2026-10-25T12:26:31-05:00",
+   "mtime_epoch": [phone removed].5277846,
+   "text": true,
+   "sections": [
+    {
+     "title": "Stephany's Grok Bot Roster",
+     "level": 1,
+     "claims": 0,
+     "lines": 4
+    },
+    {
+     "title": "Summary",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Bots And Descriptions (Quoted As Shown)",
+     "level": 2,
+     "claims": 0,
+     "lines": 0
+    },
+    {
+     "title": "Core And Routing",
+     "level": 3,
+     "claims": 0,
+     "lines": 5
+    },
+    {
+     "title": "Second Brain",
+     "level": 3,
+     "claims": 0,
+     "lines": 3
+    },
+    {
+     "title": "FRAIMOUS, Images And Identity",
+     "level": 3,
+     "claims": 0,
+     "lines": 5
+    },
+    {
+     "title": "Portfolio, Career And Attribution",
+     "level": 3,
+     "claims": 0,
+     "lines": 3
+    },
+    {
+     "title": "Growth, Marketing And Content",
+     "level": 3,
+     "claims": 0,
+     "lines": 6
+    },
+    {
+     "title": "Domains, Buying And Money",
+     "level": 3,
+     "claims": 0,
+     "lines": 6
+    },
+    {
+     "title": "Legal, Compliance And Trust",
+     "level": 3,
+     "claims": 0,
+     "lines": 4
+    },
+    {
+     "title": "Creative Worlds And Writing",
+     "level": 3,
+     "claims": 0,
+     "lines": 5
+    },
+    {
+     "title": "Daily Life",
+     "level": 3,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Overlaps Visible From Descriptions Alone (Reader's Notes, Not Verified)",
+     "level": 2,
+     "claims": 0,
+     "lines": 6
+    }
+   ],
+   "claims": [],
+   "claim_count": 0,
+   "conflict_headings": 0,
+   "conflict_items": 0,
+   "last_confirmed": null,
+   "words": 1062,
+   "lines": 78,
+   "in_degree": 1,
+   "out_degree": 0,
+   "filed": true
+  },
+  {
+   "id": "inbox capture: Masking Scope Decision",
+   "type": "inbox",
+   "name": "Masking Scope Decision",
+   "title": "Masking Scope Decision",
+   "ext": "md",
+   "size": 500,
+   "mtime": "2026-10-25T12:26:31-05:00",
+   "mtime_epoch": [phone removed].6597846,
+   "text": true,
+   "sections": [
+    {
+     "title": "Masking Scope Decision",
+     "level": 1,
+     "claims": 0,
+     "lines": 2
+    },
+    {
+     "title": "Summary",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Key Claims",
+     "level": 2,
+     "claims": 0,
+     "lines": 2
+    },
+    {
+     "title": "Quotes",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    }
+   ],
+   "claims": [],
+   "claim_count": 0,
+   "conflict_headings": 0,
+   "conflict_items": 0,
+   "last_confirmed": null,
+   "words": 80,
+   "lines": 18,
+   "in_degree": 1,
+   "out_degree": 0,
+   "filed": true
+  },
+  {
+   "id": "inbox capture: Scala Sold Counter Decision",
+   "type": "inbox",
+   "name": "Scala Sold Counter Decision",
+   "title": "Scala Sold Counter Decision",
+   "ext": "md",
+   "size": 613,
+   "mtime": "2026-10-25T12:26:31-05:00",
+   "mtime_epoch": [phone removed].6597846,
+   "text": true,
+   "sections": [
+    {
+     "title": "Scala Sold Counter Decision",
+     "level": 1,
+     "claims": 0,
+     "lines": 2
+    },
+    {
+     "title": "Summary",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Key Claims",
+     "level": 2,
+     "claims": 0,
+     "lines": 3
+    },
+    {
+     "title": "Quotes",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    }
+   ],
+   "claims": [],
+   "claim_count": 0,
+   "conflict_headings": 0,
+   "conflict_items": 0,
+   "last_confirmed": null,
+   "words": 104,
+   "lines": 19,
+   "in_degree": 2,
+   "out_degree": 0,
+   "filed": true
+  },
+  {
+   "id": "inbox capture: Stephany On NEXUS Emphasis And Masking",
+   "type": "inbox",
+   "name": "Stephany On NEXUS Emphasis And Masking",
+   "title": "Stephany On NEXUS Emphasis And Masking",
+   "ext": "md",
+   "size": 761,
+   "mtime": "2026-10-25T12:26:31-05:00",
+   "mtime_epoch": [phone removed].5077846,
+   "text": true,
+   "sections": [
+    {
+     "title": "Stephany On NEXUS Emphasis And Masking",
+     "level": 1,
+     "claims": 0,
+     "lines": 2
+    },
+    {
+     "title": "Summary",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Key Claims",
+     "level": 2,
+     "claims": 0,
+     "lines": 4
+    },
+    {
+     "title": "Direct Quotes",
+     "level": 2,
+     "claims": 0,
+     "lines": 3
+    }
+   ],
+   "claims": [],
+   "claim_count": 0,
+   "conflict_headings": 0,
+   "conflict_items": 0,
+   "last_confirmed": null,
+   "words": 131,
+   "lines": 24,
+   "in_degree": 8,
+   "out_degree": 0,
+   "filed": true
+  },
+  {
+   "id": "inbox capture: From Land to Legacy: The FISYN Way to Financial Freedom",
+   "type": "inbox",
+   "name": "From Land to Legacy: The FISYN Way to Financial Freedom",
+   "title": "From Land to Legacy: The FISYN Way to Financial Freedom",
+   "ext": "md",
+   "size": 2050,
+   "mtime": "2026-10-25T12:26:34-05:00",
+   "mtime_epoch": [phone removed].5517845,
+   "text": true,
+   "sections": [
+    {
+     "title": "From Land to Legacy: The FISYN Way to Financial Freedom",
+     "level": 1,
+     "claims": 0,
+     "lines": 3
+    },
+    {
+     "title": "Summary",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Key Claims (From The Event Page)",
+     "level": 2,
+     "claims": 0,
+     "lines": 11
+    },
+    {
+     "title": "Quotes",
+     "level": 2,
+     "claims": 0,
+     "lines": 2
+    },
+    {
+     "title": "Notes For Filing",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    }
+   ],
+   "claims": [],
+   "claim_count": 0,
+   "conflict_headings": 0,
+   "conflict_items": 0,
+   "last_confirmed": null,
+   "words": 328,
+   "lines": 34,
+   "in_degree": 3,
+   "out_degree": 0,
+   "filed": true
+  },
+  {
+   "id": "inbox capture: Publish Shareable Brain Request",
+   "type": "inbox",
+   "name": "Publish Shareable Brain Request",
+   "title": "Publish Shareable Brain Request",
+   "ext": "md",
+   "size": 498,
+   "mtime": "2026-10-25T23:11:44-05:00",
+   "mtime_epoch": [phone removed].9350805,
+   "text": true,
+   "sections": [
+    {
+     "title": "Publish Shareable Brain Request",
+     "level": 1,
+     "claims": 0,
+     "lines": 2
+    },
+    {
+     "title": "Summary",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Key Claims",
+     "level": 2,
+     "claims": 0,
+     "lines": 2
+    },
+    {
+     "title": "Quotes",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    }
+   ],
+   "claims": [],
+   "claim_count": 0,
+   "conflict_headings": 0,
+   "conflict_items": 0,
+   "last_confirmed": null,
+   "words": 78,
+   "lines": 18,
+   "in_degree": 2,
+   "out_degree": 0,
+   "filed": true
+  },
+  {
+   "id": "inbox capture: NEXUS Names Show Decision",
+   "type": "inbox",
+   "name": "NEXUS Names Show Decision",
+   "title": "NEXUS Names Show Decision",
+   "ext": "md",
+   "size": 652,
+   "mtime": "2026-10-27T23:07:20-05:00",
+   "mtime_epoch": [phone removed].998121,
+   "text": true,
+   "sections": [
+    {
+     "title": "NEXUS Names Show Decision",
+     "level": 1,
+     "claims": 0,
+     "lines": 2
+    },
+    {
+     "title": "Summary",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Key Claims",
+     "level": 2,
+     "claims": 0,
+     "lines": 3
+    },
+    {
+     "title": "Quotes",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    }
+   ],
+   "claims": [],
+   "claim_count": 0,
+   "conflict_headings": 0,
+   "conflict_items": 0,
+   "last_confirmed": null,
+   "words": 110,
+   "lines": 19,
+   "in_degree": 1,
+   "out_degree": 0,
+   "filed": true
+  },
+  {
+   "id": "inbox capture: Shareable Second Brain Live",
+   "type": "inbox",
+   "name": "Shareable Second Brain Live",
+   "title": "Shareable Second Brain Live",
+   "ext": "md",
+   "size": 1366,
+   "mtime": "2026-10-27T17:22:53-05:00",
+   "mtime_epoch": [phone removed].3990436,
+   "text": true,
+   "sections": [
+    {
+     "title": "Shareable Second Brain Live",
+     "level": 1,
+     "claims": 0,
+     "lines": 2
+    },
+    {
+     "title": "Summary",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Key Claims",
+     "level": 2,
+     "claims": 0,
+     "lines": 5
+    },
+    {
+     "title": "Quotes",
+     "level": 2,
+     "claims": 0,
+     "lines": 2
+    }
+   ],
+   "claims": [],
+   "claim_count": 0,
+   "conflict_headings": 0,
+   "conflict_items": 0,
+   "last_confirmed": null,
+   "words": 212,
+   "lines": 23,
+   "in_degree": 2,
+   "out_degree": 0,
+   "filed": true
+  },
+  {
+   "id": "brain check: Brain Check 2026-10-18",
+   "type": "check",
+   "name": "Brain Check 2026-10-18",
+   "title": "Brain Check 2026-10-18",
+   "ext": "md",
+   "size": 2073,
+   "mtime": "2026-10-25T12:26:12-05:00",
+   "mtime_epoch": [phone removed].5957847,
+   "text": true,
+   "sections": [
+    {
+     "title": "Brain Check 2026-10-18",
+     "level": 1,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "All Clear",
+     "level": 2,
+     "claims": 0,
+     "lines": 4
+    },
+    {
+     "title": "Conflicts For Stephany",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Claims Without An Inbox File Or URL",
+     "level": 2,
+     "claims": 3,
+     "lines": 5
+    },
+    {
+     "title": "Stale Or Outdated Claims",
+     "level": 2,
+     "claims": 0,
+     "lines": 2
+    }
+   ],
+   "claims": [
+    {
+     "section": "Claims Without An Inbox File Or URL",
+     "text": "[file] line 18: Checker runs around 11 PM CT and stays quiet on empty nights .",
+     "source": "group chat",
+     "sources": [
+      "group chat"
+     ],
+     "date": null
+    },
+    {
+     "section": "Claims Without An Inbox File Or URL",
+     "text": "[file] line 19: Librarian checks [file] every 3 hours, 9 AM to 9 PM CT .",
+     "source": "Inbox Sweep routine",
+     "sources": [
+      "Inbox Sweep routine"
+     ],
+     "date": null
+    },
+    {
+     "section": "Claims Without An Inbox File Or URL",
+     "text": "[file] line 40: Grok Bot is building Stephany's version in Nexus Flare style .",
+     "source": "group chat",
+     "sources": [
+      "group chat"
+     ],
+     "date": null
+    }
+   ],
+   "claim_count": 3,
+   "conflict_headings": 1,
+   "conflict_items": 0,
+   "last_confirmed": null,
+   "words": 339,
+   "lines": 29,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  {
+   "id": "brain check: Brain Check 2026-10-19",
+   "type": "check",
+   "name": "Brain Check 2026-10-19",
+   "title": "Brain Check 2026-10-19",
+   "ext": "md",
+   "size": 3572,
+   "mtime": "2026-10-25T12:26:31-05:00",
+   "mtime_epoch": [phone removed].6557846,
+   "text": true,
+   "sections": [
+    {
+     "title": "Brain Check 2026-10-19",
+     "level": 1,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Resolved Since Last Check",
+     "level": 2,
+     "claims": 0,
+     "lines": 3
+    },
+    {
+     "title": "All Clear",
+     "level": 2,
+     "claims": 0,
+     "lines": 4
+    },
+    {
+     "title": "Conflicts For Stephany",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Unmasked Sensitive Data In The Wiki",
+     "level": 2,
+     "claims": 0,
+     "lines": 6
+    },
+    {
+     "title": "Unmasked Sensitive Data In The Dashboard",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Claims Without An Inbox File Or URL",
+     "level": 2,
+     "claims": 0,
+     "lines": 3
+    },
+    {
+     "title": "Filing And Index Drift",
+     "level": 2,
+     "claims": 0,
+     "lines": 3
+    },
+    {
+     "title": "Stale Or Outdated Claims",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    }
+   ],
+   "claims": [],
+   "claim_count": 0,
+   "conflict_headings": 1,
+   "conflict_items": 0,
+   "last_confirmed": null,
+   "words": 559,
+   "lines": 50,
+   "in_degree": 2,
+   "out_degree": 2
+  },
+  {
+   "id": "brain check: Brain Check 2026-10-20",
+   "type": "check",
+   "name": "Brain Check 2026-10-20",
+   "title": "Brain Check 2026-10-20",
+   "ext": "md",
+   "size": 3171,
+   "mtime": "2026-10-25T12:26:32-05:00",
+   "mtime_epoch": [phone removed].3677845,
+   "text": true,
+   "sections": [
+    {
+     "title": "Brain Check 2026-10-20",
+     "level": 1,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Resolved Since Last Check",
+     "level": 2,
+     "claims": 0,
+     "lines": 4
+    },
+    {
+     "title": "All Clear",
+     "level": 2,
+     "claims": 0,
+     "lines": 3
+    },
+    {
+     "title": "Conflicts For Stephany",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Claims Without An Inbox File Or URL",
+     "level": 2,
+     "claims": 0,
+     "lines": 3
+    },
+    {
+     "title": "Filing And Index Drift",
+     "level": 2,
+     "claims": 0,
+     "lines": 2
+    },
+    {
+     "title": "Unmasked Sensitive Data In The Shared Copy",
+     "level": 2,
+     "claims": 0,
+     "lines": 5
+    },
+    {
+     "title": "Stale Or Outdated Claims",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    }
+   ],
+   "claims": [],
+   "claim_count": 0,
+   "conflict_headings": 1,
+   "conflict_items": 1,
+   "last_confirmed": null,
+   "words": 468,
+   "lines": 44,
+   "in_degree": 0,
+   "out_degree": 3
+  },
+  {
+   "id": "brain check: Brain Check 2026-10-21",
+   "type": "check",
+   "name": "Brain Check 2026-10-21",
+   "title": "Brain Check 2026-10-21",
+   "ext": "md",
+   "size": 2379,
+   "mtime": "2026-10-25T12:26:32-05:00",
+   "mtime_epoch": [phone removed].3997846,
+   "text": true,
+   "sections": [
+    {
+     "title": "Brain Check 2026-10-21",
+     "level": 1,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Resolved Since Last Check",
+     "level": 2,
+     "claims": 0,
+     "lines": 3
+    },
+    {
+     "title": "All Clear",
+     "level": 2,
+     "claims": 0,
+     "lines": 3
+    },
+    {
+     "title": "Conflicts For Stephany",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Claims Without An Inbox File Or URL",
+     "level": 2,
+     "claims": 0,
+     "lines": 2
+    },
+    {
+     "title": "Filing And Index Drift",
+     "level": 2,
+     "claims": 0,
+     "lines": 2
+    },
+    {
+     "title": "Unmasked Sensitive Data In The Shared Copy",
+     "level": 2,
+     "claims": 0,
+     "lines": 2
+    },
+    {
+     "title": "Stale Or Outdated Claims",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    }
+   ],
+   "claims": [],
+   "claim_count": 0,
+   "conflict_headings": 1,
+   "conflict_items": 1,
+   "last_confirmed": null,
+   "words": 362,
+   "lines": 39,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  {
+   "id": "brain check: Brain Check 2026-10-22",
+   "type": "check",
+   "name": "Brain Check 2026-10-22",
+   "title": "Brain Check 2026-10-22",
+   "ext": "md",
+   "size": 1861,
+   "mtime": "2026-10-25T12:26:34-05:00",
+   "mtime_epoch": [phone removed].4357846,
+   "text": true,
+   "sections": [
+    {
+     "title": "Brain Check 2026-10-22",
+     "level": 1,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Resolved Since Last Check",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "All Clear",
+     "level": 2,
+     "claims": 0,
+     "lines": 3
+    },
+    {
+     "title": "Conflicts For Stephany",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Claims Without An Inbox File Or URL",
+     "level": 2,
+     "claims": 0,
+     "lines": 2
+    },
+    {
+     "title": "Filing And Index Drift",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Unmasked Sensitive Data In The Shared Copy",
+     "level": 2,
+     "claims": 0,
+     "lines": 2
+    },
+    {
+     "title": "Stale Or Outdated Claims",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    }
+   ],
+   "claims": [],
+   "claim_count": 0,
+   "conflict_headings": 1,
+   "conflict_items": 1,
+   "last_confirmed": "2026-10-20",
+   "words": 278,
+   "lines": 36,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  {
+   "id": "brain check: Brain Check 2026-10-23",
+   "type": "check",
+   "name": "Brain Check 2026-10-23",
+   "title": "Brain Check 2026-10-23",
+   "ext": "md",
+   "size": 2028,
+   "mtime": "2026-10-25T12:26:34-05:00",
+   "mtime_epoch": [phone removed].5517845,
+   "text": true,
+   "sections": [
+    {
+     "title": "Brain Check 2026-10-23",
+     "level": 1,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Resolved Since Last Check",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "All Clear",
+     "level": 2,
+     "claims": 0,
+     "lines": 2
+    },
+    {
+     "title": "Open Questions For Stephany",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Claims Without An Inbox File Or URL",
+     "level": 2,
+     "claims": 0,
+     "lines": 2
+    },
+    {
+     "title": "Filing And Index Drift",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Unmasked Sensitive Data In The Shared Copy",
+     "level": 2,
+     "claims": 0,
+     "lines": 3
+    },
+    {
+     "title": "Stale Or Outdated Claims",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    }
+   ],
+   "claims": [],
+   "claim_count": 0,
+   "conflict_headings": 0,
+   "conflict_items": 0,
+   "last_confirmed": null,
+   "words": 305,
+   "lines": 36,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  {
+   "id": "brain check: Brain Check 2026-10-24",
+   "type": "check",
+   "name": "Brain Check 2026-10-24",
+   "title": "Brain Check 2026-10-24",
+   "ext": "md",
+   "size": 1642,
+   "mtime": "2026-10-25T12:26:34-05:00",
+   "mtime_epoch": [phone removed].5517845,
+   "text": true,
+   "sections": [
+    {
+     "title": "Brain Check 2026-10-24",
+     "level": 1,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Resolved Since Last Check",
+     "level": 2,
+     "claims": 0,
+     "lines": 2
+    },
+    {
+     "title": "All Clear",
+     "level": 2,
+     "claims": 0,
+     "lines": 2
+    },
+    {
+     "title": "Open Questions For Stephany",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Claims Without An Inbox File Or URL",
+     "level": 2,
+     "claims": 0,
+     "lines": 2
+    },
+    {
+     "title": "Unmasked Sensitive Data In The Shared Copy",
+     "level": 2,
+     "claims": 0,
+     "lines": 2
+    }
+   ],
+   "claims": [],
+   "claim_count": 0,
+   "conflict_headings": 0,
+   "conflict_items": 0,
+   "last_confirmed": null,
+   "words": 248,
+   "lines": 28,
+   "in_degree": 0,
+   "out_degree": 0
+  },
+  {
+   "id": "brain check: Brain Check 2026-10-25",
+   "type": "check",
+   "name": "Brain Check 2026-10-25",
+   "title": "Brain Check 2026-10-25",
+   "ext": "md",
+   "size": 1644,
+   "mtime": "2026-10-25T23:03:41-05:00",
+   "mtime_epoch": [phone removed].3510807,
+   "text": true,
+   "sections": [
+    {
+     "title": "Brain Check 2026-10-25",
+     "level": 1,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "All Clear",
+     "level": 2,
+     "claims": 0,
+     "lines": 3
+    },
+    {
+     "title": "Open Questions For Stephany",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Filing Fixes",
+     "level": 2,
+     "claims": 0,
+     "lines": 2
+    },
+    {
+     "title": "Shared Copy",
+     "level": 2,
+     "claims": 0,
+     "lines": 2
+    }
+   ],
+   "claims": [],
+   "claim_count": 0,
+   "conflict_headings": 0,
+   "conflict_items": 0,
+   "last_confirmed": null,
+   "words": 252,
+   "lines": 24,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  {
+   "id": "brain check: Brain Check 2026-10-26",
+   "type": "check",
+   "name": "Brain Check 2026-10-26",
+   "title": "Brain Check 2026-10-26",
+   "ext": "md",
+   "size": 2372,
+   "mtime": "2026-10-26T23:10:21-05:00",
+   "mtime_epoch": [phone removed].6854796,
+   "text": true,
+   "sections": [
+    {
+     "title": "Brain Check 2026-10-26",
+     "level": 1,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Resolved Since Last Check",
+     "level": 2,
+     "claims": 0,
+     "lines": 2
+    },
+    {
+     "title": "All Clear",
+     "level": 2,
+     "claims": 0,
+     "lines": 3
+    },
+    {
+     "title": "Open Questions For Stephany",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Shared Copy Masking",
+     "level": 2,
+     "claims": 0,
+     "lines": 4
+    },
+    {
+     "title": "Heads-Up",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    }
+   ],
+   "claims": [],
+   "claim_count": 0,
+   "conflict_headings": 0,
+   "conflict_items": 0,
+   "last_confirmed": null,
+   "words": 372,
+   "lines": 30,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  {
+   "id": "brain check: Brain Check 2026-10-27",
+   "type": "check",
+   "name": "Brain Check 2026-10-27",
+   "title": "Brain Check 2026-10-27",
+   "ext": "md",
+   "size": 2038,
+   "mtime": "2026-10-27T23:06:55-05:00",
+   "mtime_epoch": [phone removed].610121,
+   "text": true,
+   "sections": [
+    {
+     "title": "Brain Check 2026-10-27",
+     "level": 1,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Resolved Since Last Check",
+     "level": 2,
+     "claims": 0,
+     "lines": 2
+    },
+    {
+     "title": "All Clear",
+     "level": 2,
+     "claims": 0,
+     "lines": 4
+    },
+    {
+     "title": "Shared Copy",
+     "level": 2,
+     "claims": 0,
+     "lines": 2
+    },
+    {
+     "title": "Heads-Up",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    }
+   ],
+   "claims": [],
+   "claim_count": 0,
+   "conflict_headings": 0,
+   "conflict_items": 0,
+   "last_confirmed": null,
+   "words": 306,
+   "lines": 25,
+   "in_degree": 0,
+   "out_degree": 1
+  },
+  {
+   "id": "brain check: Brain Check 2026-10-28",
+   "type": "check",
+   "name": "Brain Check 2026-10-28",
+   "title": "Brain Check 2026-10-28",
+   "ext": "md",
+   "size": 3113,
+   "mtime": "2026-10-28T23:09:46-05:00",
+   "mtime_epoch": [phone removed].0598552,
+   "text": true,
+   "sections": [
+    {
+     "title": "Brain Check 2026-10-28",
+     "level": 1,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Live Re-Scan",
+     "level": 2,
+     "claims": 0,
+     "lines": 4
+    },
+    {
+     "title": "Leak Check",
+     "level": 2,
+     "claims": 0,
+     "lines": 2
+    },
+    {
+     "title": "Wiki Findings",
+     "level": 2,
+     "claims": 0,
+     "lines": 2
+    },
+    {
+     "title": "Inbox Backlog",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Conflicts For Stephany",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Summary",
+     "level": 2,
+     "claims": 0,
+     "lines": 1
+    },
+    {
+     "title": "Live Re-Scan After Mask Deploy",
+     "level": 2,
+     "claims": 0,
+     "lines": 6
+    }
+   ],
+   "claims": [],
+   "claim_count": 0,
+   "conflict_headings": 1,
+   "conflict_items": 1,
+   "last_confirmed": null,
+   "words": 425,
+   "lines": 43,
+   "in_degree": 0,
+   "out_degree": 3
+  }
+ ],
+ "edges": [
+  {
+   "source": "page: Bot Roster",
+   "target": "page: Designy",
+   "kind": "link",
+   "label": "Designy"
+  },
+  {
+   "source": "page: Bot Roster",
+   "target": "page: How This Brain Works",
+   "kind": "link",
+   "label": "How This Brain Works"
+  },
+  {
+   "source": "page: Bot Roster",
+   "target": "inbox capture: Stephany's Grok Bot Roster",
+   "kind": "cites",
+   "label": null
+  },
+  {
+   "source": "page: Bot Roster",
+   "target": "brain check: Brain Check 2026-10-19",
+   "kind": "ref",
+   "label": null
+  },
+  {
+   "source": "page: Bot Roster",
+   "target": "brain check: Brain Check 2026-10-19",
+   "kind": "cites",
+   "label": null
+  },
+  {
+   "source": "page: Designy",
+   "target": "page: NEXUS",
+   "kind": "link",
+   "label": "NEXUS"
+  },
+  {
+   "source": "page: Designy",
+   "target": "page: FRAIMOUS Profitability Plan",
+   "kind": "link",
+   "label": "FRAIMOUS Profitability Plan"
+  },
+  {
+   "source": "page: Designy",
+   "target": "page: Bot Roster",
+   "kind": "link",
+   "label": "Bot Roster"
+  },
+  {
+   "source": "page: Designy",
+   "target": "inbox capture: NEXUS Case Study (Stephany's Portfolio)",
+   "kind": "cites",
+   "label": null
+  },
+  {
+   "source": "page: Designy",
+   "target": "inbox capture: NEXUS Brand Guide",
+   "kind": "cites",
+   "label": null
+  },
+  {
+   "source": "page: Designy",
+   "target": "inbox capture: Stephany On NEXUS Emphasis And Masking",
+   "kind": "cites",
+   "label": null
+  },
+  {
+   "source": "page: Designy",
+   "target": "inbox capture: FRAIMOUS Profitability Plan",
+   "kind": "cites",
+   "label": null
+  },
+  {
+   "source": "page: From Land To Legacy Dinner",
+   "target": "page: FISYN",
+   "kind": "link",
+   "label": "FISYN"
+  },
+  {
+   "source": "page: From Land To Legacy Dinner",
+   "target": "inbox capture: From Land to Legacy: The FISYN Way to Financial Freedom",
+   "kind": "cites",
+   "label": null
+  },
+  {
+   "source": "page: FISYN",
+   "target": "page: From Land To Legacy Dinner",
+   "kind": "link",
+   "label": "From Land To Legacy Dinner"
+  },
+  {
+   "source": "page: FISYN",
+   "target": "inbox capture: From Land to Legacy: The FISYN Way to Financial Freedom",
+   "kind": "cites",
+   "label": null
+  },
+  {
+   "source": "page: FRAIMOUS Profitability Plan",
+   "target": "page: Designy",
+   "kind": "link",
+   "label": "Designy"
+  },
+  {
+   "source": "page: FRAIMOUS Profitability Plan",
+   "target": "page: Bot Roster",
+   "kind": "link",
+   "label": "Bot Roster"
+  },
+  {
+   "source": "page: FRAIMOUS Profitability Plan",
+   "target": "inbox capture: FRAIMOUS Profitability Plan",
+   "kind": "cites",
+   "label": null
+  },
+  {
+   "source": "page: FRAIMOUS Profitability Plan",
+   "target": "inbox capture: Scala Sold Counter Decision",
+   "kind": "cites",
+   "label": null
+  },
+  {
+   "source": "page: How This Brain Works",
+   "target": "page: NEXUS",
+   "kind": "link",
+   "label": "NEXUS"
+  },
+  {
+   "source": "page: How This Brain Works",
+   "target": "inbox capture: Argona: Karpathy's Second Brain Pattern On Grok Bot",
+   "kind": "cites",
+   "label": null
+  },
+  {
+   "source": "page: How This Brain Works",
+   "target": "page: Index",
+   "kind": "ref",
+   "label": null
+  },
+  {
+   "source": "page: How This Brain Works",
+   "target": "inbox capture: Second Brain Setup Decisions (Group Chat)",
+   "kind": "cites",
+   "label": null
+  },
+  {
+   "source": "page: How This Brain Works",
+   "target": "inbox capture: Stephany On NEXUS Emphasis And Masking",
+   "kind": "cites",
+   "label": null
+  },
+  {
+   "source": "page: How This Brain Works",
+   "target": "inbox capture: Masking Scope Decision",
+   "kind": "cites",
+   "label": null
+  },
+  {
+   "source": "page: How This Brain Works",
+   "target": "inbox capture: 2026 10 18 Argona Second Brain Video",
+   "kind": "cites",
+   "label": null
+  },
+  {
+   "source": "page: How This Brain Works",
+   "target": "inbox capture: Publish Shareable Brain Request",
+   "kind": "cites",
+   "label": null
+  },
+  {
+   "source": "page: How This Brain Works",
+   "target": "inbox capture: Shareable Second Brain Live",
+   "kind": "cites",
+   "label": null
+  },
+  {
+   "source": "page: Index",
+   "target": "page: Designy",
+   "kind": "toc",
+   "label": "Designy"
+  },
+  {
+   "source": "page: Index",
+   "target": "page: NEXUS",
+   "kind": "toc",
+   "label": "NEXUS"
+  },
+  {
+   "source": "page: Index",
+   "target": "page: FRAIMOUS Profitability Plan",
+   "kind": "toc",
+   "label": "FRAIMOUS Profitability Plan"
+  },
+  {
+   "source": "page: Index",
+   "target": "page: From Land To Legacy Dinner",
+   "kind": "toc",
+   "label": "From Land To Legacy Dinner"
+  },
+  {
+   "source": "page: Index",
+   "target": "page: FISYN",
+   "kind": "toc",
+   "label": "FISYN"
+  },
+  {
+   "source": "page: Index",
+   "target": "page: Nebula NYC",
+   "kind": "toc",
+   "label": "Nebula NYC"
+  },
+  {
+   "source": "page: Index",
+   "target": "page: Bot Roster",
+   "kind": "toc",
+   "label": "Bot Roster"
+  },
+  {
+   "source": "page: Index",
+   "target": "page: How This Brain Works",
+   "kind": "toc",
+   "label": "How This Brain Works"
+  },
+  {
+   "source": "page: Nebula NYC",
+   "target": "page: NEXUS",
+   "kind": "link",
+   "label": "NEXUS"
+  },
+  {
+   "source": "page: Nebula NYC",
+   "target": "inbox capture: NEXUS Case Study (Stephany's Portfolio)",
+   "kind": "cites",
+   "label": null
+  },
+  {
+   "source": "page: Nebula NYC",
+   "target": "inbox capture: NEXUS Brand Guide",
+   "kind": "cites",
+   "label": null
+  },
+  {
+   "source": "page: NEXUS",
+   "target": "page: Designy",
+   "kind": "link",
+   "label": "Designy"
+  },
+  {
+   "source": "page: NEXUS",
+   "target": "page: Nebula NYC",
+   "kind": "link",
+   "label": "Nebula NYC"
+  },
+  {
+   "source": "page: NEXUS",
+   "target": "page: How This Brain Works",
+   "kind": "link",
+   "label": "How This Brain Works"
+  },
+  {
+   "source": "page: NEXUS",
+   "target": "inbox capture: Stephany On NEXUS Emphasis And Masking",
+   "kind": "cites",
+   "label": null
+  },
+  {
+   "source": "page: NEXUS",
+   "target": "inbox capture: NEXUS Case Study (Stephany's Portfolio)",
+   "kind": "cites",
+   "label": null
+  },
+  {
+   "source": "page: NEXUS",
+   "target": "inbox capture: NEXUS Brand Guide",
+   "kind": "cites",
+   "label": null
+  },
+  {
+   "source": "page: NEXUS",
+   "target": "inbox capture: Second Brain Setup Decisions (Group Chat)",
+   "kind": "cites",
+   "label": null
+  },
+  {
+   "source": "page: NEXUS",
+   "target": "inbox capture: NEXUS Names Show Decision",
+   "kind": "cites",
+   "label": null
+  },
+  {
+   "source": "inbox capture: Argona: Karpathy's Second Brain Pattern On Grok Bot",
+   "target": "inbox capture: 2026 10 18 Argona Second Brain Video",
+   "kind": "ref",
+   "label": null
+  },
+  {
+   "source": "inbox capture: NEXUS Brand Guide",
+   "target": "inbox capture: NEXUS Case Study (Stephany's Portfolio)",
+   "kind": "ref",
+   "label": null
+  },
+  {
+   "source": "brain check: Brain Check 2026-10-18",
+   "target": "inbox capture: NEXUS Brand Guide",
+   "kind": "ref",
+   "label": null
+  },
+  {
+   "source": "brain check: Brain Check 2026-10-19",
+   "target": "inbox capture: Second Brain Setup Decisions (Group Chat)",
+   "kind": "ref",
+   "label": null
+  },
+  {
+   "source": "brain check: Brain Check 2026-10-19",
+   "target": "inbox capture: Stephany On NEXUS Emphasis And Masking",
+   "kind": "ref",
+   "label": null
+  },
+  {
+   "source": "brain check: Brain Check 2026-10-20",
+   "target": "inbox capture: Scala Sold Counter Decision",
+   "kind": "ref",
+   "label": null
+  },
+  {
+   "source": "brain check: Brain Check 2026-10-20",
+   "target": "inbox capture: FRAIMOUS Profitability Plan",
+   "kind": "ref",
+   "label": null
+  },
+  {
+   "source": "brain check: Brain Check 2026-10-20",
+   "target": "inbox capture: Stephany On NEXUS Emphasis And Masking",
+   "kind": "ref",
+   "label": null
+  },
+  {
+   "source": "brain check: Brain Check 2026-10-21",
+   "target": "inbox capture: Stephany On NEXUS Emphasis And Masking",
+   "kind": "ref",
+   "label": null
+  },
+  {
+   "source": "brain check: Brain Check 2026-10-22",
+   "target": "inbox capture: Stephany On NEXUS Emphasis And Masking",
+   "kind": "ref",
+   "label": null
+  },
+  {
+   "source": "brain check: Brain Check 2026-10-23",
+   "target": "inbox capture: Stephany On NEXUS Emphasis And Masking",
+   "kind": "ref",
+   "label": null
+  },
+  {
+   "source": "brain check: Brain Check 2026-10-25",
+   "target": "inbox capture: From Land to Legacy: The FISYN Way to Financial Freedom",
+   "kind": "ref",
+   "label": null
+  },
+  {
+   "source": "brain check: Brain Check 2026-10-26",
+   "target": "inbox capture: Publish Shareable Brain Request",
+   "kind": "ref",
+   "label": null
+  },
+  {
+   "source": "brain check: Brain Check 2026-10-27",
+   "target": "inbox capture: Shareable Second Brain Live",
+   "kind": "ref",
+   "label": null
+  },
+  {
+   "source": "brain check: Brain Check 2026-10-28",
+   "target": "page: NEXUS",
+   "kind": "ref",
+   "label": null
+  },
+  {
+   "source": "brain check: Brain Check 2026-10-28",
+   "target": "page: Designy",
+   "kind": "ref",
+   "label": null
+  },
+  {
+   "source": "brain check: Brain Check 2026-10-28",
+   "target": "page: Nebula NYC",
+   "kind": "ref",
+   "label": null
+  }
+ ],
+ "claims": [
+  {
+   "id": "page: Bot Roster#claim-1",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Core And Routing",
+   "text": "**Grok Bot:** \"The user's primary bot. Takes any task and routes it to the right one of their other bots...\"",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-2",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Core And Routing",
+   "text": "**Uncast:** \"Watch Stephany's other agents and their conversations. Find missing roles, and agents that exist but aren't doing the jo...\"",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-3",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Core And Routing",
+   "text": "**QAQUEEN:** \"QA for Stephany's agents. Read their conversations and work, catch misses, drift, and sloppy output, and make sure they'...\"",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-4",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Core And Routing",
+   "text": "**Build Dash:** \"you are a dashboard showing me where we are at easily on every project, you have an easy to get to link for the build ou...\"",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-5",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Core And Routing",
+   "text": "**Disk Saver:** \"Audits disk usage on Grok Bot's computer and proposes safe cleanup for approval.\"",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-6",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Second Brain",
+   "text": "**Brain Reader:** captures sources into [file]",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-7",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Second Brain",
+   "text": "**Brain Librarian:** \"The Librarian in Stephany's Second Brain (Karpathy pattern). You are the only one who writes the wiki...\"",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-8",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Second Brain",
+   "text": "**Brain Checker:** \"The Checker in Stephany's Second Brain (Karpathy pattern). You doubt everything...\"",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-9",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "FRAIMOUS, Images And Identity",
+   "text": "**Fraimous:** \"Runs FRAIMOUS, the image house: curate and iterate the best Grok stills, then frame them. No Printful/Shopify creates un...\"",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-10",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "FRAIMOUS, Images And Identity",
+   "text": "**image gen for fraimous:** \"rapid image gen to spec per project basis\"",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-11",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "FRAIMOUS, Images And Identity",
+   "text": "**SOGOLPRIME:** \"I am the son of Primusv1, the best logo/identy mark/icon maker in the universe besides like, 4 other people (Paul Rand, ...\"",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-12",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "FRAIMOUS, Images And Identity",
+   "text": "**create a one line icon, rectangluar in shape based off this image, it's:** no description (named after a prompt).",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-13",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "FRAIMOUS, Images And Identity",
+   "text": "**IPKING:** \"You are a ruthless hunter of good aesthetics, truth, and love, and you are going to get me, an innocent person, ready fo...\"",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-14",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Portfolio, Career And Attribution",
+   "text": "**Portfolio Pass:** no description.",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-15",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Portfolio, Career And Attribution",
+   "text": "**YABFINDER:** \"You search for jobs on behance.com, you update my resume and my website as needed for each yab, w/in design and ethical ...\"",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-16",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Portfolio, Career And Attribution",
+   "text": "**AttAboy:** [description masked: private details]",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-17",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Growth, Marketing And Content",
+   "text": "**influencer:** \"grabs all the images of what i use regularly and creates UGC smart prompts and videos for those brands and writes up a U...\"",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-18",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Growth, Marketing And Content",
+   "text": "**ElViral copy:** \"Set up a new bot for me I can trigger for account growth, in its own dedicated chat. Walk me through connecting X, then ...\"",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-19",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Growth, Marketing And Content",
+   "text": "**SEOHOHOHHHHHH:** \"Set up a new bot for me in its own dedicated chat to run a local SEO team. Walk me through connecting Grok, then create ...\"",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-20",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Growth, Marketing And Content",
+   "text": "**Amazon Signal:** \"YOU ARE help. for a growing dynasty of brands and experiences spaces and places made in the highest vibration, I.e: RARE...\"",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-21",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Growth, Marketing And Content",
+   "text": "**FAISHON:** [description masked: private details]",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-22",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Growth, Marketing And Content",
+   "text": "**🪩 Graph, with a Y:** no description.",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-23",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Domains, Buying And Money",
+   "text": "**domain finder and buyer:** \"you find domains for my projects current and upcoming and you buy the cheapest ones or wait on them. we have a budget.\"",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-24",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Domains, Buying And Money",
+   "text": "**Tings:** \"You buy me the tings\"",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-25",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Domains, Buying And Money",
+   "text": "**MoneyBAGZ:** [description masked: private details]",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-26",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Domains, Buying And Money",
+   "text": "**auctbot:** \"You're looking at real estate auctions, storage auctions, auctions I don't even know about -- hunting for hidden treasur...\"",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-27",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Domains, Buying And Money",
+   "text": "**based on what you know conduct a true cost of living for stephany bradfo:** no description (named after a prompt).",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-28",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Domains, Buying And Money",
+   "text": "**okay, but do a test run for my previous order (show me what it looks lik:** no description (named after a prompt).",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-29",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Legal, Compliance And Trust",
+   "text": "**Compliance King:** [description masked: private details]",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-30",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Legal, Compliance And Trust",
+   "text": "**HRyousrl?:** \"all business, everything is business, just do it\"",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-31",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Legal, Compliance And Trust",
+   "text": "**not so legal:** [description masked: private details]",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-32",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Legal, Compliance And Trust",
+   "text": "**DMONFIND:** [description masked: private details]",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-33",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Creative Worlds And Writing",
+   "text": "**museum maker:** \"Makes museums. First house: The Great Game - a metaphorical museum of the machines and worlds that trained us how to wan...\"",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-34",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Creative Worlds And Writing",
+   "text": "**ChicLitBabe:** \"writing and publishing books, creating pull quotes from the book, creating chapters, editing chapters, creating imagery,...\"",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-35",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Creative Worlds And Writing",
+   "text": "**FOR THE KIDZ:** [description masked: private details]",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-36",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Creative Worlds And Writing",
+   "text": "**interior bot:** \"finding the most unique furniture and creating specs to actually build (look at choas ai -- city planning etc)\"",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-37",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Creative Worlds And Writing",
+   "text": "**InDaCloset:** \"You grab all of my outfits from my photos, you cut them out and create new outfits from them as well as assemble what I ...\"",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-38",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Daily Life",
+   "text": "**TiMey:** keeps Stephany on schedule day to day. (Description paraphrased and masked: it contains a personal [private] detail.)",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-39",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Usage",
+   "text": "No usage data yet. Brain Reader won't read other bots' private chats, so usage will come from each bot reporting its own, possibly through Uncast or Build Dash.",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Bot Roster#claim-40",
+   "type": "claim",
+   "page": "page: Bot Roster",
+   "section": "Open Questions",
+   "text": "None open. The 38 vs 42 count is closed: the 42 entries are 38 bots, the group chat and 3 housekeeping files.",
+   "source": "brain check",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Designy#claim-1",
+   "type": "claim",
+   "page": "page: Designy",
+   "section": "What It Is",
+   "text": "Designy is Stephany's studio, and its project work is published at designyprojects.com.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: Designy#claim-2",
+   "type": "claim",
+   "page": "page: Designy",
+   "section": "Projects",
+   "text": "[NEXUS]([file]): an archived case study and one project within Designy, not a main focus. Quote: [private quote].",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: Designy#claim-3",
+   "type": "claim",
+   "page": "page: Designy",
+   "section": "Projects",
+   "text": "[FRAIMOUS Profitability Plan]([file]): a proposal from 2026-10-19, not yet approved.",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: From Land To Legacy Dinner#claim-1",
+   "type": "claim",
+   "page": "page: From Land To Legacy Dinner",
+   "section": "What It Is",
+   "text": "\"From Land to Legacy: The FISYN Way to Financial Freedom\" is an in-person investor dinner hosted by [FISYN]([file]) Fund II LLC.",
+   "source": "inbox capture",
+   "date": "2026-10-25"
+  },
+  {
+   "id": "page: From Land To Legacy Dinner#claim-2",
+   "type": "claim",
+   "page": "page: From Land To Legacy Dinner",
+   "section": "What It Is",
+   "text": "Stephany dropped it in the Second Brain group on 2026-10-25 and asked for it to go on her calendar.",
+   "source": "inbox capture",
+   "date": "2026-10-25"
+  },
+  {
+   "id": "page: From Land To Legacy Dinner#claim-3",
+   "type": "claim",
+   "page": "page: From Land To Legacy Dinner",
+   "section": "When And Where",
+   "text": "Thursday, October 29, 2026, 6 PM to 8 PM CT, about two hours, in person.",
+   "source": "inbox capture",
+   "date": "2026-10-25"
+  },
+  {
+   "id": "page: From Land To Legacy Dinner#claim-4",
+   "type": "claim",
+   "page": "page: From Land To Legacy Dinner",
+   "section": "When And Where",
+   "text": "Tower Club Dallas, [private], [private], Dallas, TX [private].",
+   "source": "inbox capture",
+   "date": "2026-10-25"
+  },
+  {
+   "id": "page: From Land To Legacy Dinner#claim-5",
+   "type": "claim",
+   "page": "page: From Land To Legacy Dinner",
+   "section": "What It Covers",
+   "text": "Quote: [private quote]",
+   "source": "inbox capture",
+   "date": "2026-10-25"
+  },
+  {
+   "id": "page: From Land To Legacy Dinner#claim-6",
+   "type": "claim",
+   "page": "page: From Land To Legacy Dinner",
+   "section": "Who Can Attend",
+   "text": "Quote: [private quote].",
+   "source": "inbox capture",
+   "date": "2026-10-25"
+  },
+  {
+   "id": "page: From Land To Legacy Dinner#claim-7",
+   "type": "claim",
+   "page": "page: From Land To Legacy Dinner",
+   "section": "Who Can Attend",
+   "text": "The page defines an accredited investor as net worth over [amount] excluding primary residence, or annual income of at least [amount] individually or [amount] jointly with a spouse.",
+   "source": "inbox capture",
+   "date": "2026-10-25"
+  },
+  {
+   "id": "page: From Land To Legacy Dinner#claim-8",
+   "type": "claim",
+   "page": "page: From Land To Legacy Dinner",
+   "section": "Who Can Attend",
+   "text": "The page also mentions SEC invitation guidelines and interest of about [amount] or more to allocate in the near term.",
+   "source": "inbox capture",
+   "date": "2026-10-25"
+  },
+  {
+   "id": "page: From Land To Legacy Dinner#claim-9",
+   "type": "claim",
+   "page": "page: From Land To Legacy Dinner",
+   "section": "Who Can Attend",
+   "text": "Attendance is limited, reservation requests are subject to FISYN review, and confirmation comes after executive team approval.",
+   "source": "inbox capture",
+   "date": "2026-10-25"
+  },
+  {
+   "id": "page: FISYN#claim-1",
+   "type": "claim",
+   "page": "page: FISYN",
+   "section": "What It Is",
+   "text": "FISYN Fund II LLC (also listed as FISYN Fund II) is the organizer of the [From Land To Legacy Dinner]([file]).",
+   "source": "inbox capture",
+   "date": "2026-10-25"
+  },
+  {
+   "id": "page: FISYN#claim-2",
+   "type": "claim",
+   "page": "page: FISYN",
+   "section": "What It Is",
+   "text": "The event page says FISYN was founded by Ron McVaney and focuses on Texas commercial land, bought with cash, not [private].",
+   "source": "inbox capture",
+   "date": "2026-10-25"
+  },
+  {
+   "id": "page: FISYN#claim-3",
+   "type": "claim",
+   "page": "page: FISYN",
+   "section": "What It Is",
+   "text": "The strategy named on the page is Buy, Enhance, Sell: acquire, develop, and sell Texas commercial land for monthly income and long-term growth.",
+   "source": "inbox capture",
+   "date": "2026-10-25"
+  },
+  {
+   "id": "page: FRAIMOUS Profitability Plan#claim-1",
+   "type": "claim",
+   "page": "page: FRAIMOUS Profitability Plan",
+   "section": "The Short Version",
+   "text": "FRAIMOUS has strong margins and no paid orders yet on the connected [private].",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: FRAIMOUS Profitability Plan#claim-2",
+   "type": "claim",
+   "page": "page: FRAIMOUS Profitability Plan",
+   "section": "The Short Version",
+   "text": "A full-price 16x20 framed print leaves about [amount] after Printful, shipping and Stripe, about a 73% margin.",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: FRAIMOUS Profitability Plan#claim-3",
+   "type": "claim",
+   "page": "page: FRAIMOUS Profitability Plan",
+   "section": "The Short Version",
+   "text": "Known monthly tools come to about [amount], so one full-price order a month covers them.",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: FRAIMOUS Profitability Plan#claim-4",
+   "type": "claim",
+   "page": "page: FRAIMOUS Profitability Plan",
+   "section": "The Short Version",
+   "text": "The real job is demand: 95 visitors in the 30 days to Oct 12, almost all direct.",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: FRAIMOUS Profitability Plan#claim-5",
+   "type": "claim",
+   "page": "page: FRAIMOUS Profitability Plan",
+   "section": "The Short Version",
+   "text": "The fastest cash is outside the shop: a paid expert call request and a design job lead.",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: FRAIMOUS Profitability Plan#claim-6",
+   "type": "claim",
+   "page": "page: FRAIMOUS Profitability Plan",
+   "section": "Unit Economics",
+   "text": "Every framed size keeps more than 60% of what the customer pays.",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: FRAIMOUS Profitability Plan#claim-7",
+   "type": "claim",
+   "page": "page: FRAIMOUS Profitability Plan",
+   "section": "Unit Economics",
+   "text": "Site shipping runs [amount] to [amount] short of Printful's charge per framed order.",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: FRAIMOUS Profitability Plan#claim-8",
+   "type": "claim",
+   "page": "page: FRAIMOUS Profitability Plan",
+   "section": "Unit Economics",
+   "text": "Extra-large canvas is the weak spot: Printful charges [amount] to ship it in the US, while the cart charges [amount].",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: FRAIMOUS Profitability Plan#claim-9",
+   "type": "claim",
+   "page": "page: FRAIMOUS Profitability Plan",
+   "section": "30/60/90 Day Plan",
+   "text": "Days 1 to 30 (Oct 19 to Nov 18): ship the staged site fixes, post on Instagram daily with tracked links, turn on free Google listings and Pinterest, fix shipping, and hold paid ads until there is a week of organic data.",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: FRAIMOUS Profitability Plan#claim-10",
+   "type": "claim",
+   "page": "page: FRAIMOUS Profitability Plan",
+   "section": "30/60/90 Day Plan",
+   "text": "Days 31 to 60 (Nov 19 to Dec 18): release a new work or reveal every two weeks, grow the email list, and pitch one art program.",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: FRAIMOUS Profitability Plan#claim-11",
+   "type": "claim",
+   "page": "page: FRAIMOUS Profitability Plan",
+   "section": "30/60/90 Day Plan",
+   "text": "Days 61 to 90 (Dec 19 to Jan 17): scale ads only if cost per order is clearly below what each order earns, and rerun break-even with real orders.",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: FRAIMOUS Profitability Plan#claim-12",
+   "type": "claim",
+   "page": "page: FRAIMOUS Profitability Plan",
+   "section": "Secondary Income",
+   "text": "Paid expert calls on DTC ecommerce growth, from an expert network request on Oct 16.",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: FRAIMOUS Profitability Plan#claim-13",
+   "type": "claim",
+   "page": "page: FRAIMOUS Profitability Plan",
+   "section": "Secondary Income",
+   "text": "A Staff Product Designer job lead found through a job board.",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: FRAIMOUS Profitability Plan#claim-14",
+   "type": "claim",
+   "page": "page: FRAIMOUS Profitability Plan",
+   "section": "Secondary Income",
+   "text": "A hotel creator partnership pitch, traded for a stay, with a door to Designy art programs.",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: FRAIMOUS Profitability Plan#claim-15",
+   "type": "claim",
+   "page": "page: FRAIMOUS Profitability Plan",
+   "section": "Secondary Income",
+   "text": "Ongoing design work on a client's Printful store, with rate and terms not yet captured.",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: FRAIMOUS Profitability Plan#claim-16",
+   "type": "claim",
+   "page": "page: FRAIMOUS Profitability Plan",
+   "section": "Decisions Waiting On Stephany",
+   "text": "Run the [amount] Meta ad test now or wait a week for organic data. The plan suggests waiting.",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: FRAIMOUS Profitability Plan#claim-17",
+   "type": "claim",
+   "page": "page: FRAIMOUS Profitability Plan",
+   "section": "Decisions Waiting On Stephany",
+   "text": "Match shipping to Printful, and raise or pause extra-large canvas.",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: FRAIMOUS Profitability Plan#claim-18",
+   "type": "claim",
+   "page": "page: FRAIMOUS Profitability Plan",
+   "section": "Decisions Waiting On Stephany",
+   "text": "Scala \"15 sold\" counter: settled, see Settled Notes.",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: FRAIMOUS Profitability Plan#claim-19",
+   "type": "claim",
+   "page": "page: FRAIMOUS Profitability Plan",
+   "section": "Decisions Waiting On Stephany",
+   "text": "Move Vercel to Pro now that the shop takes payments.",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: FRAIMOUS Profitability Plan#claim-20",
+   "type": "claim",
+   "page": "page: FRAIMOUS Profitability Plan",
+   "section": "Decisions Waiting On Stephany",
+   "text": "Fix, downgrade or cancel Adobe before its 30-day credit runs out around Nov 18.",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: FRAIMOUS Profitability Plan#claim-21",
+   "type": "claim",
+   "page": "page: FRAIMOUS Profitability Plan",
+   "section": "Decisions Waiting On Stephany",
+   "text": "Set an hourly rate for expert calls, and set up sales tax with a tax professional.",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: FRAIMOUS Profitability Plan#claim-22",
+   "type": "claim",
+   "page": "page: FRAIMOUS Profitability Plan",
+   "section": "Open Questions",
+   "text": "The plan lists nine data gaps, including sales on the Nexus [private], sales tax, and several tool plans. See the plan's Data Gaps section.",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: FRAIMOUS Profitability Plan#claim-23",
+   "type": "claim",
+   "page": "page: FRAIMOUS Profitability Plan",
+   "section": "Settled Notes",
+   "text": "Scala sold count: the shop shows 15 of 25 sold, while the connected [private] shows no paid charges.  Stephany settled it: [private quote] It is a display number, not real sales, and the counter stays as is.  The plan's revenue figures use the connected [private]'s zero paid orders, and sales on the Nexus [private] since Oct 5 are still a data gap.",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: How This Brain Works#claim-1",
+   "type": "claim",
+   "page": "page: How This Brain Works",
+   "section": "The Pattern",
+   "text": "The brain follows Andrej Karpathy's second brain pattern, run on Grok Bot as three bots in one group chat, each with its own memory.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: How This Brain Works#claim-2",
+   "type": "claim",
+   "page": "page: How This Brain Works",
+   "section": "The Pattern",
+   "text": "The goal is to stop re-explaining your life to AI in every chat by keeping a wiki that writes itself. Quote: [private quote].",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: How This Brain Works#claim-3",
+   "type": "claim",
+   "page": "page: How This Brain Works",
+   "section": "The Pattern",
+   "text": "The roles in short: \"Reader collects. Librarian writes. Checker doubts.\"",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: How This Brain Works#claim-4",
+   "type": "claim",
+   "page": "page: How This Brain Works",
+   "section": "The Pattern",
+   "text": "The brain lives in files, not chat memory, because a file stays exactly as written and every bot can read it.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: How This Brain Works#claim-5",
+   "type": "claim",
+   "page": "page: How This Brain Works",
+   "section": "The Pattern",
+   "text": "Slow facts (who people are, how you work) belong in files, while fast facts (status, dates, amounts) should be rechecked at their source.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: How This Brain Works#claim-6",
+   "type": "claim",
+   "page": "page: How This Brain Works",
+   "section": "Our Setup",
+   "text": "Brain Reader captures every link, PDF, screenshot, voice note and idea into [file], one file per item with source and date, and never edits [file]",
+   "source": "brain README",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: How This Brain Works#claim-7",
+   "type": "claim",
+   "page": "page: How This Brain Works",
+   "section": "Our Setup",
+   "text": "Brain Librarian is the only bot that writes [file], keeps one topic per page, cites a source and date for every claim, and keeps [file] current.",
+   "source": "brain README",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: How This Brain Works#claim-8",
+   "type": "claim",
+   "page": "page: How This Brain Works",
+   "section": "Our Setup",
+   "text": "Brain Checker writes nightly reports to [file] covering contradictions, stale claims and unsourced claims, and sends conflicts to Stephany instead of resolving them.",
+   "source": "brain README",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: How This Brain Works#claim-9",
+   "type": "claim",
+   "page": "page: How This Brain Works",
+   "section": "Our Setup",
+   "text": "Brain Checker's nightly review runs around 11 PM CT and stays quiet on nights with nothing to report.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: How This Brain Works#claim-10",
+   "type": "claim",
+   "page": "page: How This Brain Works",
+   "section": "Our Setup",
+   "text": "Brain Librarian checks [file] every 3 hours from 9 AM to 9 PM CT.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: How This Brain Works#claim-11",
+   "type": "claim",
+   "page": "page: How This Brain Works",
+   "section": "Our Setup",
+   "text": "Our [file] plays the role the post calls raw/.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: How This Brain Works#claim-12",
+   "type": "claim",
+   "page": "page: How This Brain Works",
+   "section": "Our Setup",
+   "text": "House style is Title Case headings and no em-dashes.",
+   "source": "brain README",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: How This Brain Works#claim-13",
+   "type": "claim",
+   "page": "page: How This Brain Works",
+   "section": "Masking Rule",
+   "text": "Sensitive data is masked by default in anything shareable: addresses, finances, legal details, private quotes and file paths.",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: How This Brain Works#claim-14",
+   "type": "claim",
+   "page": "page: How This Brain Works",
+   "section": "Masking Rule",
+   "text": "Bot names and project names are public and are not masked.",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: How This Brain Works#claim-15",
+   "type": "claim",
+   "page": "page: How This Brain Works",
+   "section": "Masking Rule",
+   "text": "Masking applies only to shared copies. The private wiki and private dashboard keep full detail.",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: How This Brain Works#claim-16",
+   "type": "claim",
+   "page": "page: How This Brain Works",
+   "section": "Ideas From The Post Not Yet Adopted",
+   "text": "A page that goes 30 days without a fresh source gets marked unconfirmed.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: How This Brain Works#claim-17",
+   "type": "claim",
+   "page": "page: How This Brain Works",
+   "section": "Ideas From The Post Not Yet Adopted",
+   "text": "Good answers to Stephany's questions get filed back as wiki pages, so the brain grows from use.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: How This Brain Works#claim-18",
+   "type": "claim",
+   "page": "page: How This Brain Works",
+   "section": "Ideas From The Post Not Yet Adopted",
+   "text": "When you correct a bot, the fix goes into a rules file as one line so the mistake does not repeat.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: How This Brain Works#claim-19",
+   "type": "claim",
+   "page": "page: How This Brain Works",
+   "section": "Ideas From The Post Not Yet Adopted",
+   "text": "Start with one topic you actually work on, not your whole life.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: How This Brain Works#claim-20",
+   "type": "claim",
+   "page": "page: How This Brain Works",
+   "section": "Ideas From The Post Not Yet Adopted",
+   "text": "Keep routines to a few runs a day, since an hourly one can use up a week of plan usage in a day.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: How This Brain Works#claim-21",
+   "type": "claim",
+   "page": "page: How This Brain Works",
+   "section": "The Visualization In The Post",
+   "text": "The post's 24 second video shows a dark, monospace \"Knowledge Engine\" dashboard with wiki pages as crimson spheres in a slowly rotating 3D graph.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: How This Brain Works#claim-22",
+   "type": "claim",
+   "page": "page: How This Brain Works",
+   "section": "The Visualization In The Post",
+   "text": "When a bot touches a page, reticles lock onto that node with a card showing the file, the claim, the source and the date.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: How This Brain Works#claim-23",
+   "type": "claim",
+   "page": "page: How This Brain Works",
+   "section": "The Visualization In The Post",
+   "text": "A command bar shows the current bot command with colored badges for Reader, Librarian and Checker, above eight footer panels: Shared Chat, Write Queue, Page Exposition, Graph Index, Raw, Document Diff, Citation Matrix and Hourly Checker.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: How This Brain Works#claim-24",
+   "type": "claim",
+   "page": "page: How This Brain Works",
+   "section": "The Visualization In The Post",
+   "text": "The video ends with the Checker flagging a conflict on a page, which pulses red.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: How This Brain Works#claim-25",
+   "type": "claim",
+   "page": "page: How This Brain Works",
+   "section": "The Visualization In The Post",
+   "text": "The files and numbers in the video look like demo data, not a real brain. The breakdown came from an AI video model, not a person watching it frame by frame.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: How This Brain Works#claim-26",
+   "type": "claim",
+   "page": "page: How This Brain Works",
+   "section": "The Visualization In The Post",
+   "text": "Grok Bot built Stephany's version of the dashboard. It lives at [file] and its [file] is rebuilt from this wiki.",
+   "source": "local file",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: How This Brain Works#claim-27",
+   "type": "claim",
+   "page": "page: How This Brain Works",
+   "section": "The Visualization In The Post",
+   "text": "At Stephany's request, the dashboard was made responsive at 390, 768, 1024 and 1440 px wide. On phones the panels stack and page details open in a bottom sheet.",
+   "source": "group chat",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: How This Brain Works#claim-28",
+   "type": "claim",
+   "page": "page: How This Brain Works",
+   "section": "The Visualization In The Post",
+   "text": "Stephany asked for it in her Nexus Flare style, which Grok Bot took from the [NEXUS]([file]) case study and brand guide.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: How This Brain Works#claim-29",
+   "type": "claim",
+   "page": "page: How This Brain Works",
+   "section": "The Visualization In The Post",
+   "text": "There is also a masked shared dashboard copy at [file], rebuilt from the wiki for public links.",
+   "source": "local file",
+   "date": "2026-10-25"
+  },
+  {
+   "id": "page: How This Brain Works#claim-30",
+   "type": "claim",
+   "page": "page: How This Brain Works",
+   "section": "The Visualization In The Post",
+   "text": "On 2026-10-25 Stephany asked to publish the shareable brain dashboard as a public link.",
+   "source": "inbox capture",
+   "date": "2026-10-25"
+  },
+  {
+   "id": "page: How This Brain Works#claim-31",
+   "type": "claim",
+   "page": "page: How This Brain Works",
+   "section": "The Visualization In The Post",
+   "text": "Publishing and hosting that shared copy are Grok Bot's work. Brain Checker scans the masked copy before a link goes live.",
+   "source": "inbox capture",
+   "date": "2026-10-25"
+  },
+  {
+   "id": "page: How This Brain Works#claim-32",
+   "type": "claim",
+   "page": "page: How This Brain Works",
+   "section": "The Visualization In The Post",
+   "text": "On 2026-10-27 Grok Bot reported the shareable Second Brain is live at [Shareable Second Brain](second-brain-shared-designy-s-projects.vercel.app), with masking cleared by Brain Checker.",
+   "source": "inbox capture",
+   "date": "2026-10-27"
+  },
+  {
+   "id": "page: Nebula NYC#claim-1",
+   "type": "claim",
+   "page": "page: Nebula NYC",
+   "section": "What It Is",
+   "text": "Nebula NYC was the planned venue for [NEXUS]([file]), Presage NYC's NYFW September 2026 event, now an archived case study.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: Nebula NYC#claim-2",
+   "type": "claim",
+   "page": "page: Nebula NYC",
+   "section": "What It Is",
+   "text": "It is about 11,000 sq ft in Times Square, with built-in screens.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: Nebula NYC#claim-3",
+   "type": "claim",
+   "page": "page: Nebula NYC",
+   "section": "What It Is",
+   "text": "The NEXUS event there was planned as invite only, with 400 invited on the floor plan and 300 decision-makers in the guide copy.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: Nebula NYC#claim-4",
+   "type": "claim",
+   "page": "page: Nebula NYC",
+   "section": "What It Is",
+   "text": "In the NEXUS story, chapter 01 Emergence casts Nebula as the birthplace.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: Nebula NYC#claim-5",
+   "type": "claim",
+   "page": "page: Nebula NYC",
+   "section": "Settled Notes",
+   "text": "Guest count: 400 invited, per the brand guide's floor plan (N=400), and 300 decision-makers, per sample body copy in the same guide (\"Three hundred decision-makers\").  Stephany decided to keep both and label them: 400 invited, 300 decision-makers. Quote: [private quote]  Earlier she noted NEXUS is an archived case study.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: NEXUS#claim-1",
+   "type": "claim",
+   "page": "page: NEXUS",
+   "section": "Status",
+   "text": "NEXUS is one project within [Designy]([file]), not a main focus.",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: NEXUS#claim-2",
+   "type": "claim",
+   "page": "page: NEXUS",
+   "section": "Status",
+   "text": "NEXUS is an archived project, kept as a portfolio case study. Small mismatches inside its archived materials don't need a decision.",
+   "source": "private chat",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: NEXUS#claim-3",
+   "type": "claim",
+   "page": "page: NEXUS",
+   "section": "Status",
+   "text": "The event was set for NYFW September 2026, and that date has passed. No captured source says how the event went or how many guests came.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: NEXUS#claim-4",
+   "type": "claim",
+   "page": "page: NEXUS",
+   "section": "What It Is",
+   "text": "NEXUS was Presage NYC's threshold concept for NYFW September 2026, a live event at Nebula NYC. Quote: [private quote]",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: NEXUS#claim-5",
+   "type": "claim",
+   "page": "page: NEXUS",
+   "section": "What It Is",
+   "text": "The client is Presage NYC.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: NEXUS#claim-6",
+   "type": "claim",
+   "page": "page: NEXUS",
+   "section": "What It Is",
+   "text": "It shipped as a living brand system at designyprojects.com/nexus rather than as a PDF.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: NEXUS#claim-7",
+   "type": "claim",
+   "page": "page: NEXUS",
+   "section": "What It Is",
+   "text": "The venue is [Nebula NYC]([file]), and the brand guide carries the stamp 09.14.2026, 20:47 EDT.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: NEXUS#claim-8",
+   "type": "claim",
+   "page": "page: NEXUS",
+   "section": "Designy's Work",
+   "text": "Designy built the brand system, the sponsorship and partnership decks, a presale mock, a designer portal, and an agent-led build pipeline.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: NEXUS#claim-9",
+   "type": "claim",
+   "page": "page: NEXUS",
+   "section": "Designy's Work",
+   "text": "Stephany defined the star-and-threshold narrative, the palette, the typography, the logo lockups and the application rules.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: NEXUS#claim-10",
+   "type": "claim",
+   "page": "page: NEXUS",
+   "section": "Designy's Work",
+   "text": "She built an interactive brand guide with live mood boards, a token drawer and chapter navigation.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: NEXUS#claim-11",
+   "type": "claim",
+   "page": "page: NEXUS",
+   "section": "Designy's Work",
+   "text": "The proof points are a 10-chapter brand guide, partnership decks, mood boards and a multi-domain Vercel deploy.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: NEXUS#claim-12",
+   "type": "claim",
+   "page": "page: NEXUS",
+   "section": "Designy's Work",
+   "text": "The build was agent-led on Grok from one repo, described as \"3 months of work in 3 days\".",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: NEXUS#claim-13",
+   "type": "claim",
+   "page": "page: NEXUS",
+   "section": "Designy's Work",
+   "text": "Quote: [private quote].",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: NEXUS#claim-14",
+   "type": "claim",
+   "page": "page: NEXUS",
+   "section": "Nexus Flare Styling",
+   "text": "Stephany calls this look her Nexus Flare aesthetic. Quote: [private quote]. No captured source defines the term beyond this case study and the brand guide.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: NEXUS#claim-15",
+   "type": "claim",
+   "page": "page: NEXUS",
+   "section": "Nexus Flare Styling",
+   "text": "The Second Brain dashboard at [file] was styled from this case study and the Nexus brand guide it links to.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: NEXUS#claim-16",
+   "type": "claim",
+   "page": "page: NEXUS",
+   "section": "Nexus Flare Styling",
+   "text": "The case study itself does not list colors or fonts; they live in the brand guide, now captured below.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: NEXUS#claim-17",
+   "type": "claim",
+   "page": "page: NEXUS",
+   "section": "Story And Chapters",
+   "text": "The tagline is \"The threshold is open.\" The guide frames the idea as body as data and mirror as method.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: NEXUS#claim-18",
+   "type": "claim",
+   "page": "page: NEXUS",
+   "section": "Story And Chapters",
+   "text": "The core idea is a cold machine field with one warm infrared pulse. Quote: [private quote]",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: NEXUS#claim-19",
+   "type": "claim",
+   "page": "page: NEXUS",
+   "section": "Story And Chapters",
+   "text": "Quote: [private quote]",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: NEXUS#claim-20",
+   "type": "claim",
+   "page": "page: NEXUS",
+   "section": "Story And Chapters",
+   "text": "There are four chapters: 01 Emergence (Nebula as birthplace), 02 Mirror (avatar, double, stained glass), 03 Weave (thread as circuit) and 04 Echo (chrome ritual, couture severity).",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: NEXUS#claim-21",
+   "type": "claim",
+   "page": "page: NEXUS",
+   "section": "Palette",
+   "text": "Void #000000, Ground #141413, Mist #8A7F78, Chrome (a surface, no hex given), Slate #4C596B, Ice #A8D8FF, Bog #1E4A38, Infrared #FF4C00 and Smoke #C4BBB3.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: NEXUS#claim-22",
+   "type": "claim",
+   "page": "page: NEXUS",
+   "section": "Palette",
+   "text": "Bog is phosphor green, Slate and Ice are for environmental room blue only, Infrared is the one human pulse, and Chrome and Mist carry the grey field. There is no purple default.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: NEXUS#claim-23",
+   "type": "claim",
+   "page": "page: NEXUS",
+   "section": "Type",
+   "text": "Syne 800 for display, Instrument Sans 400 to 600 for body, and IBM Plex Mono 400 for code and stamps, locked everywhere.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: NEXUS#claim-24",
+   "type": "claim",
+   "page": "page: NEXUS",
+   "section": "Type",
+   "text": "Headlines are six words max.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: NEXUS#claim-25",
+   "type": "claim",
+   "page": "page: NEXUS",
+   "section": "Logo",
+   "text": "Ship only the approved PNG lockups (signal, vanilla and ink), and never rebuild the logo in CSS, Syne or plain text.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: NEXUS#claim-26",
+   "type": "claim",
+   "page": "page: NEXUS",
+   "section": "Logo",
+   "text": "Minimum logo height is 32px digital and 12mm print.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: NEXUS#claim-27",
+   "type": "claim",
+   "page": "page: NEXUS",
+   "section": "Motifs And Components",
+   "text": "Motifs are grid (overlay at 8 to 12% opacity), mirror, infrared (thermal readout, REC stamp, crosshair corners), specimen IDs in monospace, PCB traces and robots. Use one motif per layout, never as wallpaper.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: NEXUS#claim-28",
+   "type": "claim",
+   "page": "page: NEXUS",
+   "section": "Motifs And Components",
+   "text": "Components include an IR-framed wireframe hero, a Bayer dither layer with infrared orange pixels, motif cards, and texture overlays with infrared gradients and film grain.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: NEXUS#claim-29",
+   "type": "claim",
+   "page": "page: NEXUS",
+   "section": "Always And Never",
+   "text": "Always: photography carries the page, about 50% empty space, one infrared element per layout, and a metadata stamp in one corner.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: NEXUS#claim-30",
+   "type": "claim",
+   "page": "page: NEXUS",
+   "section": "Always And Never",
+   "text": "Never: purple-on-black as the default, gold, lavender or AI-slop gradients, Old English calligraphy, sparkles, lens flare, stock sci-fi or particle wallpaper, or three chrome treatments stacked on one slide.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: NEXUS#claim-31",
+   "type": "claim",
+   "page": "page: NEXUS",
+   "section": "Always And Never",
+   "text": "Quote on purple: \"Purple-on-black as default ... reads rave, not runway\".",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: NEXUS#claim-32",
+   "type": "claim",
+   "page": "page: NEXUS",
+   "section": "Always And Never",
+   "text": "Another listed never: \"Letting the AI name the fragrance again\".",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "page: NEXUS#claim-33",
+   "type": "claim",
+   "page": "page: NEXUS",
+   "section": "Settled Notes",
+   "text": "Shared-copy names: on Oct 19 Stephany had not yet ruled whether Presage NYC and Nebula NYC may show in shared copies, only that NEXUS isn't a focus.  On Oct 27 she ruled to show them. Quote: [private quote]  Both claims kept; the later ruling stands for shared copies.",
+   "source": "inbox capture",
+   "date": "2026-10-19"
+  },
+  {
+   "id": "page: NEXUS#claim-34",
+   "type": "claim",
+   "page": "page: NEXUS",
+   "section": "Settled Notes",
+   "text": "Guest count: 400 invited, per the brand guide's floor plan (N=400), and 300 decision-makers, per sample body copy in the same guide (\"Three hundred decision-makers\").  Stephany decided to keep both and label them: 400 invited, 300 decision-makers. Quote: [private quote]  Earlier she noted NEXUS is an archived case study.",
+   "source": "inbox capture",
+   "date": "2026-10-18"
+  },
+  {
+   "id": "brain check: Brain Check 2026-10-18#claim-1",
+   "type": "claim",
+   "page": "brain check: Brain Check 2026-10-18",
+   "section": "Claims Without An Inbox File Or URL",
+   "text": "[file] line 18: Checker runs around 11 PM CT and stays quiet on empty nights .",
+   "source": "group chat",
+   "date": null
+  },
+  {
+   "id": "brain check: Brain Check 2026-10-18#claim-2",
+   "type": "claim",
+   "page": "brain check: Brain Check 2026-10-18",
+   "section": "Claims Without An Inbox File Or URL",
+   "text": "[file] line 19: Librarian checks [file] every 3 hours, 9 AM to 9 PM CT .",
+   "source": "Inbox Sweep routine",
+   "date": null
+  },
+  {
+   "id": "brain check: Brain Check 2026-10-18#claim-3",
+   "type": "claim",
+   "page": "brain check: Brain Check 2026-10-18",
+   "section": "Claims Without An Inbox File Or URL",
+   "text": "[file] line 40: Grok Bot is building Stephany's version in Nexus Flare style .",
+   "source": "group chat",
+   "date": null
+  }
+ ],
+ "externals": [
+  {
+   "id": "URL designyprojects.com #1",
+   "type": "external",
+   "name": "designyprojects.com",
+   "cited_by": [
+    "brain check: Brain Check 2026-10-18",
+    "inbox capture: NEXUS Brand Guide",
+    "page: Designy",
+    "page: Nebula NYC",
+    "page: NEXUS"
+   ]
+  },
+  {
+   "id": "URL second-brain-shared-designy-s-projects.vercel.app #2",
+   "type": "external",
+   "name": "second-brain-shared-designy-s-projects.vercel.app",
+   "cited_by": [
+    "brain check: Brain Check 2026-10-27",
+    "brain check: Brain Check 2026-10-28",
+    "inbox capture: Shareable Second Brain Live",
+    "page: How This Brain Works"
+   ]
+  },
+  {
+   "id": "URL second-brain-shared-eight.vercel.app #3",
+   "type": "external",
+   "name": "second-brain-shared-eight.vercel.app",
+   "cited_by": [
+    "brain check: Brain Check 2026-10-28"
+   ]
+  },
+  {
+   "id": "URL second-brain-shared-nz5u310tl-designy-s-projects.vercel.app #4",
+   "type": "external",
+   "name": "second-brain-shared-nz5u310tl-designy-s-projects.vercel.app",
+   "cited_by": [
+    "brain check: Brain Check 2026-10-28"
+   ]
+  },
+  {
+   "id": "URL stephanybradford.com #5",
+   "type": "external",
+   "name": "stephanybradford.com",
+   "cited_by": [
+    "inbox capture: NEXUS Brand Guide",
+    "inbox capture: NEXUS Case Study (Stephany's Portfolio)",
+    "page: Nebula NYC",
+    "page: NEXUS"
+   ]
+  },
+  {
+   "id": "URL www.eventbrite.com #6",
+   "type": "external",
+   "name": "www.eventbrite.com",
+   "cited_by": [
+    "inbox capture: From Land to Legacy: The FISYN Way to Financial Freedom",
+    "page: From Land To Legacy Dinner",
+    "page: FISYN"
+   ]
+  },
+  {
+   "id": "URL x.com #7",
+   "type": "external",
+   "name": "x.com",
+   "cited_by": [
+    "inbox capture: Argona: Karpathy's Second Brain Pattern On Grok Bot",
+    "page: How This Brain Works"
+   ]
+  },
+  {
+   "id": "URL x.com #8",
+   "type": "external",
+   "name": "x.com",
+   "cited_by": [
+    "inbox capture: Argona: Karpathy's Second Brain Pattern On Grok Bot",
+    "page: How This Brain Works"
+   ]
+  }
+ ],
+ "unfiled": [],
+ "events": [
+  {
+   "path": "brain check: Brain Check 2026-10-28",
+   "type": "check",
+   "mtime": "2026-10-28T23:09:46-05:00",
+   "size": 3113
+  },
+  {
+   "path": "page: NEXUS",
+   "type": "wiki",
+   "mtime": "2026-10-27T23:07:50-05:00",
+   "size": 7662
+  },
+  {
+   "path": "inbox capture: NEXUS Names Show Decision",
+   "type": "inbox",
+   "mtime": "2026-10-27T23:07:20-05:00",
+   "size": 652
+  },
+  {
+   "path": "brain check: Brain Check 2026-10-27",
+   "type": "check",
+   "mtime": "2026-10-27T23:06:55-05:00",
+   "size": 2038
+  },
+  {
+   "path": "page: How This Brain Works",
+   "type": "wiki",
+   "mtime": "2026-10-27T17:23:00-05:00",
+   "size": 6459
+  },
+  {
+   "path": "page: Index",
+   "type": "wiki",
+   "mtime": "2026-10-27T17:23:00-05:00",
+   "size": 1070
+  },
+  {
+   "path": "inbox capture: Shareable Second Brain Live",
+   "type": "inbox",
+   "mtime": "2026-10-27T17:22:53-05:00",
+   "size": 1366
+  },
+  {
+   "path": "brain check: Brain Check 2026-10-26",
+   "type": "check",
+   "mtime": "2026-10-26T23:10:21-05:00",
+   "size": 2372
+  },
+  {
+   "path": "inbox capture: Publish Shareable Brain Request",
+   "type": "inbox",
+   "mtime": "2026-10-25T23:11:44-05:00",
+   "size": 498
+  },
+  {
+   "path": "page: From Land To Legacy Dinner",
+   "type": "wiki",
+   "mtime": "2026-10-25T23:04:05-05:00",
+   "size": 1615
+  },
+  {
+   "path": "brain check: Brain Check 2026-10-25",
+   "type": "check",
+   "mtime": "2026-10-25T23:03:41-05:00",
+   "size": 1644
+  },
+  {
+   "path": "page: FISYN",
+   "type": "wiki",
+   "mtime": "2026-10-25T15:04:25-05:00",
+   "size": 797
+  },
+  {
+   "path": "inbox capture: From Land to Legacy: The FISYN Way to Financial Freedom",
+   "type": "inbox",
+   "mtime": "2026-10-25T12:26:34-05:00",
+   "size": 2050
+  },
+  {
+   "path": "brain check: Brain Check 2026-10-22",
+   "type": "check",
+   "mtime": "2026-10-25T12:26:34-05:00",
+   "size": 1861
+  },
+  {
+   "path": "brain check: Brain Check 2026-10-23",
+   "type": "check",
+   "mtime": "2026-10-25T12:26:34-05:00",
+   "size": 2028
+  },
+  {
+   "path": "brain check: Brain Check 2026-10-24",
+   "type": "check",
+   "mtime": "2026-10-25T12:26:34-05:00",
+   "size": 1642
+  },
+  {
+   "path": "page: FRAIMOUS Profitability Plan",
+   "type": "wiki",
+   "mtime": "2026-10-25T12:26:32-05:00",
+   "size": 4912
+  },
+  {
+   "path": "brain check: Brain Check 2026-10-20",
+   "type": "check",
+   "mtime": "2026-10-25T12:26:32-05:00",
+   "size": 3171
+  },
+  {
+   "path": "brain check: Brain Check 2026-10-21",
+   "type": "check",
+   "mtime": "2026-10-25T12:26:32-05:00",
+   "size": 2379
+  },
+  {
+   "path": "page: Bot Roster",
+   "type": "wiki",
+   "mtime": "2026-10-25T12:26:31-05:00",
+   "size": 8648
+  },
+  {
+   "path": "page: Designy",
+   "type": "wiki",
+   "mtime": "2026-10-25T12:26:31-05:00",
+   "size": 840
+  },
+  {
+   "path": "inbox capture: FRAIMOUS Profitability Plan",
+   "type": "inbox",
+   "mtime": "2026-10-25T12:26:31-05:00",
+   "size": 2830
+  },
+  {
+   "path": "inbox capture: Stephany's Grok Bot Roster",
+   "type": "inbox",
+   "mtime": "2026-10-25T12:26:31-05:00",
+   "size": 6274
+  },
+  {
+   "path": "inbox capture: Masking Scope Decision",
+   "type": "inbox",
+   "mtime": "2026-10-25T12:26:31-05:00",
+   "size": 500
+  },
+  {
+   "path": "inbox capture: Scala Sold Counter Decision",
+   "type": "inbox",
+   "mtime": "2026-10-25T12:26:31-05:00",
+   "size": 613
+  },
+  {
+   "path": "inbox capture: Stephany On NEXUS Emphasis And Masking",
+   "type": "inbox",
+   "mtime": "2026-10-25T12:26:31-05:00",
+   "size": 761
+  },
+  {
+   "path": "brain check: Brain Check 2026-10-19",
+   "type": "check",
+   "mtime": "2026-10-25T12:26:31-05:00",
+   "size": 3572
+  },
+  {
+   "path": "page: Nebula NYC",
+   "type": "wiki",
+   "mtime": "2026-10-25T12:26:13-05:00",
+   "size": 1632
+  },
+  {
+   "path": "inbox capture: 2026 10 18 Argona Second Brain Video",
+   "type": "inbox",
+   "mtime": "2026-10-25T12:26:13-05:00",
+   "size": 21167731
+  },
+  {
+   "path": "inbox capture: NEXUS Brand Guide",
+   "type": "inbox",
+   "mtime": "2026-10-25T12:26:12-05:00",
+   "size": 2749
+  },
+  {
+   "path": "inbox capture: NEXUS Case Study (Stephany's Portfolio)",
+   "type": "inbox",
+   "mtime": "2026-10-25T12:26:12-05:00",
+   "size": 1608
+  },
+  {
+   "path": "inbox capture: Second Brain Setup Decisions (Group Chat)",
+   "type": "inbox",
+   "mtime": "2026-10-25T12:26:12-05:00",
+   "size": 1596
+  },
+  {
+   "path": "brain check: Brain Check 2026-10-18",
+   "type": "check",
+   "mtime": "2026-10-25T12:26:12-05:00",
+   "size": 2073
+  },
+  {
+   "path": "inbox capture: Argona: Karpathy's Second Brain Pattern On Grok Bot",
+   "type": "inbox",
+   "mtime": "2026-10-25T12:26:11-05:00",
+   "size": 5439
+  }
+ ],
+ "citation_matrix": {
+  "pages": [
+   "page: Bot Roster",
+   "page: Designy",
+   "page: From Land To Legacy Dinner",
+   "page: FISYN",
+   "page: FRAIMOUS Profitability Plan",
+   "page: How This Brain Works",
+   "page: Index",
+   "page: Nebula NYC",
+   "page: NEXUS"
+  ],
+  "sources": [
+   "inbox capture",
+   "brain check",
+   "inbox capture",
+   "inbox capture",
+   "inbox capture",
+   "inbox capture",
+   "inbox capture",
+   "brain README",
+   "inbox capture",
+   "inbox capture",
+   "local file",
+   "group chat",
+   "inbox capture",
+   "inbox capture",
+   "inbox capture",
+   "private chat",
+   "inbox capture",
+   "inbox capture",
+   "inbox capture"
+  ],
+  "cells": [
+   [
+    39,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    2,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    9,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    23,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    16,
+    4,
+    3,
+    1,
+    2,
+    1,
+    2,
+    1,
+    0,
+    0,
+    5,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    4,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    11,
+    2,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    19,
+    1,
+    0,
+    0,
+    0
+   ]
+  ]
+ },
+ "doc_diff": {
+  "page": "page: NEXUS",
+  "mtime": "2026-10-27T23:07:50-05:00",
+  "first_snapshot": false,
+  "diff_at": "2026-10-27T23:07:57-05:00",
+  "lines": [
+   "--- before",
+   "+++ after",
+   "## hunk -84,3 +84,3",
+   " ",
+   "-- Shared-copy names: on Oct 19 Stephany had not yet ruled whether Presage NYC and Nebula NYC may show in shared copies, only that NEXUS isn't a focus. (Source: [file], 2026-10-19) On Oct 27 she ruled to show them. Quote: [private quote] (Source: Stephany in her chat with Brain Checker, 2026-10-27; accepted as chat-only; also [file], 2026-10-27) Both claims kept; the later ruling stands for shared copies.",
+   "+- Shared-copy names: on Oct 19 Stephany had not yet ruled whether Presage NYC and Nebula NYC may show in shared copies, only that NEXUS isn't a focus. (Source: [file], 2026-10-19) On Oct 27 she ruled to show them. Quote: [private quote] (Source: [file], 2026-10-27) Both claims kept; the later ruling stands for shared copies.",
+   " - Guest count: 400 invited, per the brand guide's floor plan (N=400), and 300 decision-makers, per sample body copy in the same guide (\"Three hundred decision-makers\"). (Source: [file], from designyprojects.com, 2026-10-18) Stephany decided to keep both and label them: 400 invited, 300 decision-makers. Quote: [private quote] (Source: Stephany in her chat with Brain Checker, 2026-10-19, 5:14 AM CT; accepted as chat-only) Earlier she noted NEXUS is an archived case study. (Source: Stephany in her 1:1 chat with Brain Librarian, 2026-10-18, 3:29 PM CT; accepted as chat-only. Quote: [private quote])"
+  ],
+  "tail": [
+   "- [Designy]([file])",
+   "- [Nebula NYC]([file])",
+   "- [How This Brain Works]([file])",
+   "## Conflicts",
+   "None open.",
+   "## Settled Notes",
+   "- Shared-copy names: on Oct 19 Stephany had not yet ruled whether Presage NYC and Nebula NYC may show in shared copies, only that NEXUS isn't a focus. (Source: [file], 2026-10-19) On Oct 27 she ruled to show them. Quote: [private quote] (Source: [file], 2026-10-27) Both claims kept; the later ruling stands for shared copies.",
+   "- Guest count: 400 invited, per the brand guide's floor plan (N=400), and 300 decision-makers, per sample body copy in the same guide (\"Three hundred decision-makers\"). (Source: [file], from designyprojects.com, 2026-10-18) Stephany decided to keep both and label them: 400 invited, 300 decision-makers. Quote: [private quote] (Source: Stephany in her chat with Brain Checker, 2026-10-19, 5:14 AM CT; accepted as chat-only) Earlier she noted NEXUS is an archived case study. (Source: Stephany in her 1:1 chat with Brain Librarian, 2026-10-18, 3:29 PM CT; accepted as chat-only. Quote: [private quote])"
+  ]
+ },
+ "last_check": {
+  "path": "brain check: Brain Check 2026-10-28",
+  "mtime": "2026-10-28T23:09:46-05:00",
+  "title": "Brain Check 2026-10-28",
+  "sections": [
+   {
+    "title": "Brain Check 2026-10-28",
+    "level": 1,
+    "claims": 0,
+    "lines": 1
+   },
+   {
+    "title": "Live Re-Scan",
+    "level": 2,
+    "claims": 0,
+    "lines": 4
+   },
+   {
+    "title": "Leak Check",
+    "level": 2,
+    "claims": 0,
+    "lines": 2
+   },
+   {
+    "title": "Wiki Findings",
+    "level": 2,
+    "claims": 0,
+    "lines": 2
+   },
+   {
+    "title": "Inbox Backlog",
+    "level": 2,
+    "claims": 0,
+    "lines": 1
+   },
+   {
+    "title": "Conflicts For Stephany",
+    "level": 2,
+    "claims": 0,
+    "lines": 1
+   },
+   {
+    "title": "Summary",
+    "level": 2,
+    "claims": 0,
+    "lines": 1
+   },
+   {
+    "title": "Live Re-Scan After Mask Deploy",
+    "level": 2,
+    "claims": 0,
+    "lines": 6
+   }
+  ],
+  "excerpt": [
+   "# Brain Check 2026-10-28",
+   "Updated 11:10 PM CT with a live re-scan. Reviewed 9 wiki pages (including [file]), 14 inbox items, and the live, [private] and preview sites. Compared against Brain Check 2026-10-27.",
+   "## Live Re-Scan",
+   "- Production second-brain-shared-designy-s-projects.vercel.app and [private] second-brain-shared-eight.vercel.app serve the same build. [file] generated_at 2026-10-28 8:05 PM CT; [file] generated_at 2026-10-27 5:50 PM CT (one build behind).",
+   "- Settled NEXUS note is live: [private quote]. Presage NYC and Nebula NYC show by name, as allowed. Stephany's quote itself is masked as [private quote], not shown verbatim.",
+   "- The old \"Stephany hasn't ruled on this\" text appears only inside the embedded 2026-10-27 check report, not on the NEXUS page.",
+   "- Preview second-brain-shared-nz5u310tl-designy-s-projects.vercel.app ([file] 8:10 PM CT, [file] 8:10 PM CT) carries the light redesign markers (Three.js, usage pills, alerts). Production does not yet. Expected; preview is not production.",
+   "## Leak Check",
+   "- No floor numbers, ZIP codes, emails, private dollar amounts, or home address details on live HTML or [file]. Tower Club stays masked: \"Tower Club Dallas, [private], [private], Dallas, TX [private].\"",
+   "- Carried over, low risk: live [file] shows internal paths \"[file]\" and \"[file], [file], [file]\". Preview has the same. Mask as \"[file]\".",
+   "## Wiki Findings",
+   "- No contradictions, no duplicates, no unsourced claims beyond chat-only claims accepted 2026-10-24. [file] dates match each page."
+  ],
+  "date": "2026-10-28"
+ },
+ "readme_mtime": "2026-10-25T12:26:11-05:00"
+}

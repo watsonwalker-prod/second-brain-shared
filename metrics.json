@@ -1,0 +1,627 @@
+{
+  "generated_at": "2026-10-29T03:13:36-05:00",
+  "zone": "America/Chicago",
+  "title": "Second Brain Sprint Loop",
+  "subtitle": "Shareable Overview",
+  "owner": "",
+  "confidence_note": "Counts come from wiki, FRAIMOUS QA reports on disk, and the designy-s-projects Vercel list opened this turn. Gaps stay gaps. Usage meters show roster status only. Live counts are not captured yet.",
+  "alerts": [
+    {
+      "tag": "API 404s",
+      "detail": "Catalog API v1 routes still returning 404"
+    },
+    {
+      "tag": "Furor In Seven",
+      "detail": "Notify-only Furor still listed first in the Seven section"
+    },
+    {
+      "tag": "Missing X-Robots-Tag",
+      "detail": "Response header still absent. Noindex shipped as meta only"
+    },
+    {
+      "tag": "Traffic Data Gap",
+      "detail": "No pageview, session, or Search Console numbers filed in the shared brain"
+    },
+    {
+      "tag": "Usage Not Captured",
+      "detail": "Bot usage counts are not in the wiki yet"
+    }
+  ],
+  "sidebar": [
+    {
+      "id": "deployments",
+      "label": "Deployments",
+      "summary": "9 Vercel projects on designy-s-projects",
+      "confidence": "high",
+      "source": "designy-s-projects Vercel team project list",
+      "items": [
+        {
+          "title": "Team Projects",
+          "detail": "9 named projects returned by the Vercel team project list",
+          "meta": "team scope"
+        },
+        {
+          "title": "FRAIMOUS (frameous)",
+          "detail": "Latest READY production deploy stamped in QA recheck",
+          "meta": "READY"
+        },
+        {
+          "title": "Second Brain Shared",
+          "detail": "Shareable dashboard project live on Vercel",
+          "meta": "READY"
+        },
+        {
+          "title": "Recent Sample",
+          "detail": "Vercel deployment list returned a paginated sample of frameous and second-brain-shared. Not a lifetime total",
+          "meta": "sample"
+        }
+      ]
+    },
+    {
+      "id": "case-studies",
+      "label": "Case Studies",
+      "summary": "2 named studies in the shared wiki",
+      "confidence": "high",
+      "source": "[file], [file], [file]",
+      "items": [
+        {
+          "title": "NEXUS",
+          "detail": "Archived Presage NYC threshold concept for NYFW; venue Nebula NYC. Kept as portfolio case study.",
+          "meta": "archived",
+          "url": "https://stephanybradford.com/work/nexus"
+        },
+        {
+          "title": "FRAIMOUS",
+          "detail": "Live image house with case-study cuts and ongoing board QA. Profitability plan noted as proposal, not approved.",
+          "meta": "active",
+          "url": "https://fraimous.com"
+        }
+      ]
+    },
+    {
+      "id": "traffic",
+      "label": "Traffic Improvements",
+      "summary": "Measured lift not on disk",
+      "confidence": "data-gap",
+      "source": "[file] notes; no Search Console export in Second Brain",
+      "items": [
+        {
+          "title": "Data Gap",
+          "detail": "No pageview, session, or Search Console numbers are filed in the shared brain. Do not invent lift.",
+          "meta": "gap"
+        },
+        {
+          "title": "Indexing Hygiene",
+          "detail": "Cart, checkout, thanks, and soon now carry meta robots noindex (QA recheck 2026-10-27). That is hygiene, not proven traffic gain.",
+          "meta": "low"
+        },
+        {
+          "title": "SEO Pack Note",
+          "detail": "Earlier SEO pack treated the shop as barely indexed until Search Console says otherwise.",
+          "meta": "context"
+        }
+      ]
+    },
+    {
+      "id": "bug-fixes",
+      "label": "Biggest Bug Fixes",
+      "summary": "4 complete · 3 still working",
+      "confidence": "high",
+      "source": "[file] and [file]",
+      "complete": [
+        {
+          "title": "PDP Size Reset",
+          "detail": "Size stays after remount click on live PDPs"
+        },
+        {
+          "title": "Checkout Honeypot Removed",
+          "detail": "Hidden honey fields gone from live checkout"
+        },
+        {
+          "title": "Footer Angels Nowrap",
+          "detail": "ANGELIC INTELLIGENCE no longer splits on small screens"
+        },
+        {
+          "title": "Noindex Meta On Cart Paths",
+          "detail": "Meta robots noindex on cart, checkout, thanks, soon"
+        }
+      ],
+      "working": [
+        {
+          "title": "API v1 Routes",
+          "detail": "Catalog API paths still returning 404"
+        },
+        {
+          "title": "Furor In Seven On Soon",
+          "detail": "Notify-only Furor still listed first in the Seven section"
+        },
+        {
+          "title": "X-Robots-Tag Header",
+          "detail": "Response header still absent; noindex shipped as meta only"
+        }
+      ]
+    }
+  ],
+  "projects": {
+    "note": "Top 25 bots of the roster. Usage counts are not captured, so rank uses activity signals on file: bots with dated work rank first, then rostered bots in roster order. Rings show activity, not counts.",
+    "ranking": "activity-signal first, then roster order; capped at 25; no usage counts invented",
+    "groups": [
+      {
+        "label": "Vercel Surfaces",
+        "items": [
+          {
+            "name": "frameous",
+            "status": "ready",
+            "note": "FRAIMOUS shop project",
+            "icon": "assets/icons/frameous.svg",
+            "url": "https://fraimous.com",
+            "usage": {
+              "label": "Live",
+              "level": "high",
+              "meter": 0.86
+            }
+          },
+          {
+            "name": "second-brain-shared",
+            "status": "ready",
+            "note": "This shareable dashboard",
+            "icon": "assets/icons/second-brain-shared.svg",
+            "url": "https://second-brain-shared-designy-s-projects.vercel.app/",
+            "usage": {
+              "label": "Live",
+              "level": "high",
+              "meter": 0.86
+            }
+          },
+          {
+            "name": "i-like-you-you-win",
+            "status": "ready",
+            "note": "Public page project",
+            "icon": "assets/icons/i-like-you-you-win.svg",
+            "url": "https://i-like-you-you-win.vercel.app/",
+            "usage": {
+              "label": "Live",
+              "level": "high",
+              "meter": 0.86
+            }
+          },
+          {
+            "name": "brand-system",
+            "status": "ready",
+            "note": "Listed on team",
+            "icon": "assets/icons/brand-system.svg",
+            "url": "https://brand-system.vercel.app/",
+            "usage": {
+              "label": "Live",
+              "level": "high",
+              "meter": 0.86
+            }
+          },
+          {
+            "name": "ugc-landing",
+            "status": "ready",
+            "note": "Listed on team",
+            "icon": "assets/icons/ugc-landing.svg",
+            "url": "https://ugc-landing.vercel.app/",
+            "usage": {
+              "label": "Live",
+              "level": "high",
+              "meter": 0.86
+            }
+          },
+          {
+            "name": "what-is-nexus-website",
+            "status": "archived",
+            "note": "NEXUS-related listing",
+            "icon": "assets/icons/what-is-nexus-website.svg",
+            "url": "https://stephanybradford.com/work/nexus",
+            "usage": {
+              "label": "Archived",
+              "level": "archived",
+              "meter": 0
+            }
+          },
+          {
+            "name": "nexus-design-system-v1-deprecated",
+            "status": "archived",
+            "note": "Deprecated listing",
+            "icon": "assets/icons/nexus-design-system-v1-deprecated.svg",
+            "url": null,
+            "usage": {
+              "label": "Archived",
+              "level": "archived",
+              "meter": 0
+            }
+          },
+          {
+            "name": "presage-sponsorship-deck-solana",
+            "status": "archived",
+            "note": "Presage-related listing",
+            "icon": "assets/icons/presage-sponsorship-deck-solana.svg",
+            "url": null,
+            "usage": {
+              "label": "Archived",
+              "level": "archived",
+              "meter": 0
+            }
+          },
+          {
+            "name": "designyprojects-working-prime-day-2026-dashboard",
+            "status": "ready",
+            "note": "Listed on team",
+            "icon": "assets/icons/designyprojects-working-prime-day-2026-dashboard.svg",
+            "url": null,
+            "usage": {
+              "label": "Live",
+              "level": "high",
+              "meter": 0.86
+            }
+          }
+        ]
+      },
+      {
+        "label": "Top 25 Bots",
+        "items": [
+          {
+            "rank": 1,
+            "name": "Brain Reader",
+            "status": "active",
+            "note": "Inbox captures through 2026-10-27",
+            "icon": "assets/icons/bot-brain-reader.svg",
+            "url": null,
+            "usage": {
+              "label": "Active",
+              "level": "high",
+              "ring": 0.85,
+              "basis": "activity signal on file"
+            }
+          },
+          {
+            "rank": 2,
+            "name": "Brain Librarian",
+            "status": "active",
+            "note": "Wiki writes through 2026-10-27",
+            "icon": "assets/icons/bot-brain-librarian.svg",
+            "url": null,
+            "usage": {
+              "label": "Active",
+              "level": "high",
+              "ring": 0.85,
+              "basis": "activity signal on file"
+            }
+          },
+          {
+            "rank": 3,
+            "name": "Brain Checker",
+            "status": "active",
+            "note": "Nightly checks through 2026-10-27",
+            "icon": "assets/icons/bot-brain-checker.svg",
+            "url": null,
+            "usage": {
+              "label": "Active",
+              "level": "high",
+              "ring": 0.85,
+              "basis": "activity signal on file"
+            }
+          },
+          {
+            "rank": 4,
+            "name": "Fraimous",
+            "status": "active",
+            "note": "Board QA through 2026-10-27",
+            "icon": "assets/icons/bot-fraimous.svg",
+            "url": "https://fraimous.com",
+            "usage": {
+              "label": "Active",
+              "level": "high",
+              "ring": 0.85,
+              "basis": "activity signal on file"
+            }
+          },
+          {
+            "rank": 5,
+            "name": "Grok Bot",
+            "status": "active",
+            "note": "Primary router",
+            "icon": "assets/icons/bot-grok-bot.svg",
+            "url": null,
+            "usage": {
+              "label": "Active",
+              "level": "high",
+              "ring": 0.85,
+              "basis": "activity signal on file"
+            }
+          },
+          {
+            "rank": 6,
+            "name": "QAQUEEN",
+            "status": "active",
+            "note": "Agent QA",
+            "icon": "assets/icons/bot-qaqueen.svg",
+            "url": null,
+            "usage": {
+              "label": "Active",
+              "level": "high",
+              "ring": 0.85,
+              "basis": "activity signal on file"
+            }
+          },
+          {
+            "name": "fraicless",
+            "status": "rostered",
+            "note": "New roster bot",
+            "icon": "assets/icons/bot-fraicless.svg",
+            "url": null,
+            "usage": {
+              "label": "No Usage Data",
+              "level": "none",
+              "ring": 0,
+              "basis": "no dated activity on file"
+            },
+            "rank": 7
+          },
+          {
+            "name": "HAPPY BLINKY",
+            "status": "rostered",
+            "note": "New roster bot",
+            "icon": "assets/icons/bot-happy-blinky.svg",
+            "url": null,
+            "usage": {
+              "label": "No Usage Data",
+              "level": "none",
+              "ring": 0,
+              "basis": "no dated activity on file"
+            },
+            "rank": 8
+          },
+          {
+            "rank": 9,
+            "name": "Uncast",
+            "status": "rostered",
+            "note": "No usage data yet",
+            "icon": "assets/icons/bot-uncast.svg",
+            "url": null,
+            "usage": {
+              "label": "Rostered · No Usage Data",
+              "level": "none",
+              "ring": 0,
+              "basis": "no usage data"
+            }
+          },
+          {
+            "rank": 10,
+            "name": "Build Dash",
+            "status": "rostered",
+            "note": "No usage data yet",
+            "icon": "assets/icons/bot-build-dash.svg",
+            "url": null,
+            "usage": {
+              "label": "Rostered · No Usage Data",
+              "level": "none",
+              "ring": 0,
+              "basis": "no usage data"
+            }
+          },
+          {
+            "rank": 11,
+            "name": "Disk Saver",
+            "status": "rostered",
+            "note": "No usage data yet",
+            "icon": "assets/icons/bot-disk-saver.svg",
+            "url": null,
+            "usage": {
+              "label": "Rostered · No Usage Data",
+              "level": "none",
+              "ring": 0,
+              "basis": "no usage data"
+            }
+          },
+          {
+            "rank": 12,
+            "name": "image gen for fraimous",
+            "status": "rostered",
+            "note": "No usage data yet",
+            "icon": "assets/icons/bot-image-gen-for-fraimous.svg",
+            "url": null,
+            "usage": {
+              "label": "Rostered · No Usage Data",
+              "level": "none",
+              "ring": 0,
+              "basis": "no usage data"
+            }
+          },
+          {
+            "rank": 13,
+            "name": "SOGOLPRIME",
+            "status": "rostered",
+            "note": "No usage data yet",
+            "icon": "assets/icons/bot-sogolprime.svg",
+            "url": null,
+            "usage": {
+              "label": "Rostered · No Usage Data",
+              "level": "none",
+              "ring": 0,
+              "basis": "no usage data"
+            }
+          },
+          {
+            "rank": 14,
+            "name": "IPKING",
+            "status": "rostered",
+            "note": "No usage data yet",
+            "icon": "assets/icons/bot-ipking.svg",
+            "url": null,
+            "usage": {
+              "label": "Rostered · No Usage Data",
+              "level": "none",
+              "ring": 0,
+              "basis": "no usage data"
+            }
+          },
+          {
+            "rank": 15,
+            "name": "Portfolio Pass",
+            "status": "rostered",
+            "note": "No usage data yet",
+            "icon": "assets/icons/bot-portfolio-pass.svg",
+            "url": null,
+            "usage": {
+              "label": "Rostered · No Usage Data",
+              "level": "none",
+              "ring": 0,
+              "basis": "no usage data"
+            }
+          },
+          {
+            "rank": 16,
+            "name": "YABFINDER",
+            "status": "rostered",
+            "note": "No usage data yet",
+            "icon": "assets/icons/bot-yabfinder.svg",
+            "url": null,
+            "usage": {
+              "label": "Rostered · No Usage Data",
+              "level": "none",
+              "ring": 0,
+              "basis": "no usage data"
+            }
+          },
+          {
+            "rank": 17,
+            "name": "AttAboy",
+            "status": "rostered",
+            "note": "No usage data yet",
+            "icon": "assets/icons/bot-attaboy.svg",
+            "url": null,
+            "usage": {
+              "label": "Rostered · No Usage Data",
+              "level": "none",
+              "ring": 0,
+              "basis": "no usage data"
+            }
+          },
+          {
+            "rank": 18,
+            "name": "influencer",
+            "status": "rostered",
+            "note": "No usage data yet",
+            "icon": "assets/icons/bot-influencer.svg",
+            "url": null,
+            "usage": {
+              "label": "Rostered · No Usage Data",
+              "level": "none",
+              "ring": 0,
+              "basis": "no usage data"
+            }
+          },
+          {
+            "rank": 19,
+            "name": "ElViral",
+            "status": "rostered",
+            "note": "No usage data yet",
+            "icon": "assets/icons/bot-elviral.svg",
+            "url": null,
+            "usage": {
+              "label": "Rostered · No Usage Data",
+              "level": "none",
+              "ring": 0,
+              "basis": "no usage data"
+            }
+          },
+          {
+            "rank": 20,
+            "name": "SEOHOHOHHHHHH",
+            "status": "rostered",
+            "note": "No usage data yet",
+            "icon": "assets/icons/bot-seohohohhhhhh.svg",
+            "url": null,
+            "usage": {
+              "label": "Rostered · No Usage Data",
+              "level": "none",
+              "ring": 0,
+              "basis": "no usage data"
+            }
+          },
+          {
+            "rank": 21,
+            "name": "Amazon Signal",
+            "status": "rostered",
+            "note": "No usage data yet",
+            "icon": "assets/icons/bot-amazon-signal.svg",
+            "url": null,
+            "usage": {
+              "label": "Rostered · No Usage Data",
+              "level": "none",
+              "ring": 0,
+              "basis": "no usage data"
+            }
+          },
+          {
+            "rank": 22,
+            "name": "FAISHON",
+            "status": "rostered",
+            "note": "No usage data yet",
+            "icon": "assets/icons/bot-faishon.svg",
+            "url": null,
+            "usage": {
+              "label": "Rostered · No Usage Data",
+              "level": "none",
+              "ring": 0,
+              "basis": "no usage data"
+            }
+          },
+          {
+            "rank": 23,
+            "name": "Graph, with a Y",
+            "status": "rostered",
+            "note": "No usage data yet",
+            "icon": "assets/icons/bot-graph-with-a-y.svg",
+            "url": null,
+            "usage": {
+              "label": "Rostered · No Usage Data",
+              "level": "none",
+              "ring": 0,
+              "basis": "no usage data"
+            }
+          },
+          {
+            "rank": 24,
+            "name": "domain finder and buyer",
+            "status": "rostered",
+            "note": "No usage data yet",
+            "icon": "assets/icons/bot-domain-finder-and-buyer.svg",
+            "url": null,
+            "usage": {
+              "label": "Rostered · No Usage Data",
+              "level": "none",
+              "ring": 0,
+              "basis": "no usage data"
+            }
+          },
+          {
+            "rank": 25,
+            "name": "Tings",
+            "status": "rostered",
+            "note": "No usage data yet",
+            "icon": "assets/icons/bot-tings.svg",
+            "url": null,
+            "usage": {
+              "label": "Rostered · No Usage Data",
+              "level": "none",
+              "ring": 0,
+              "basis": "no usage data"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "brain_counts": {
+    "pages": 9,
+    "inbox_items": 14,
+    "check_reports": 10,
+    "sourced_claims": 149,
+    "links": 62,
+    "last_check_date": "2026-10-27"
+  }
+}
